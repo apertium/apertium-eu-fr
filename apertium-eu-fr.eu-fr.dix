@@ -3957,6 +3957,44 @@
       </p>
     </e>
 
+    <e>
+      <p>
+        <l>edin<s n="vbsint"/></l>
+        <r>être<s n="vbser"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ezan<s n="vbsint"/></l>
+        <r>avoir<s n="vblex"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>ukan<s n="vbsint"/></l>
+        <r>avoir<s n="vblex"/></r>
+      </p>
+    </e>
+
+     <e r="LR">
+      <p>
+        <l>ukan<s n="vblex"/></l>
+        <r>avoir<s n="vblex"/></r>
+      </p>
+    </e>
+    <e>
+      <p>
+        <l>izan<s n="vbsint"/></l>
+        <r>être<s n="vbser"/></r>
+      </p>
+    </e>
+    <e r="LR">
+      <p>
+        <l>izan<s n="vblex"/></l>
+        <r>être<s n="vbser"/></r>
+      </p>
+    </e>
+
     <!-- 
 	forced 'null' restriction
       N-0
