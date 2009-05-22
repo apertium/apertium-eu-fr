@@ -32,7 +32,7 @@ $(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
 	lt-comp rl $(BASENAME).$(LANG2).dix $@
 
-$(BASENAME).$(LANG2).dix
+$(BASENAME)-$(PREFIX1).$(LANG2).dix: $(BASENAME)-$(PREFIX1).$(LANG2).metadix
 	@xsltproc buscaPar.xsl apertium-$(PREFIX1).$(LANG2).metadix | uniq > tmp2gen.xsl 	 
 	@xsltproc tmp2gen.xsl apertium-$(PREFIX1).$(LANG2).metadix >$ $@
 	@rm tmp2gen.xsl
