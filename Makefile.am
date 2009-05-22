@@ -28,7 +28,7 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	lt-comp lr $(BASENAME).$(PREFIX1).dix $@
 ##	rm tmp$(PREFIX1).autobil.dix
 
-$(BASENAME)-$(PREFIX1).$(LANG2).dix: $(BASENAME)-$(PREFIX1).$(LANG2).metadix
+$(BASENAME).$(LANG2).dix: $(BASENAME).$(LANG2).metadix
 	@xsltproc buscaPar.xsl apertium-$(PREFIX1).$(LANG2).metadix | uniq > tmp2gen.xsl 	 
 	@xsltproc tmp2gen.xsl apertium-$(PREFIX1).$(LANG2).metadix >$ $@
 	@rm tmp2gen.xsl
