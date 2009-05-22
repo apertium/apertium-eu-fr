@@ -1694,5 +1694,33 @@
 </action-set>
 </cross-action>
 <!-- 3 entries like this -->
+<cross-action id="nom-GD-ND">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaB<s n="n"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="n"/></l> 
+        <r>$lemmaC<s n="n"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaC<s n="n"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
 
 </cross-model>

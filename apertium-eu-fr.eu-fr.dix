@@ -7,7 +7,7 @@
 	Sdefs: 261
       
       Patterns applied:
-      	default (716 times)
+      	default (673 times)
       	ND-37 (2 times)
       	ND-38 (17 times)
       	ND-36 (3 times)
@@ -43,7 +43,6 @@
       	ND3-4 (57 times)
       	ND3-6 (7 times)
       	ND3-7 (27 times)
-      	ND3-8 (3 times)
       	post-pr (25 times)
       	vbsint-vblex (32 times)
       	vbsint-vbser (2 times)
@@ -53,6 +52,7 @@
       	prnind-93 (2 times)
       	prnind-94 (2 times)
       	nom-106 (1 times)
+      	nom-GD-ND (46 times)
 
 -->
 <dictionary>
@@ -4936,12 +4936,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>afiliatu<s n="n"/></l> 
-        <r>adhérent<s n="n"/></r> 
+        <r>adhérent<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -5530,12 +5530,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>aholkulari<s n="n"/></l> 
-        <r>conseiller<s n="n"/></r> 
+        <r>conseiller<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -6762,12 +6762,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e c="new-category">
       <p>
         <l>aleman<s n="n"/></l> 
-        <r>allemand<s n="n"/></r> 
+        <r>allemand<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -6784,12 +6784,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e c="new-category">
       <p>
         <l>alemaniar<s n="n"/></l> 
-        <r>allemand<s n="n"/></r> 
+        <r>allemand<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -6861,12 +6861,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>aliatu<s n="n"/></l> 
-        <r>allié<s n="n"/></r> 
+        <r>allié<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -7312,12 +7312,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>amerikar<s n="n"/></l> 
-        <r>américain<s n="n"/></r> 
+        <r>américain<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -9127,12 +9127,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e c="new-category">
       <p>
         <l>argentinar<s n="n"/></l> 
-        <r>argentin<s n="n"/></r> 
+        <r>argentin<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -10623,12 +10623,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>asasino<s n="n"/></l> 
-        <r>assassin<s n="n"/></r> 
+        <r>assassin<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -12064,12 +12064,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>atzerritar<s n="n"/></l> 
-        <r>étranger<s n="n"/></r> 
+        <r>étranger<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -13219,12 +13219,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>auzoko<s n="n"/></l> 
-        <r>voisin<s n="n"/></r> 
+        <r>voisin<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -15474,12 +15474,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>baserritar<s n="n"/></l> 
-        <r>paysan<s n="n"/></r> 
+        <r>paysan<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -16430,10 +16430,10 @@
     </e>
 
     <!-- 
-	forced 'LR' restriction
-      ND3-8
+	forced 'null' restriction
+      nom-GD-ND
     -->
-    <e r="LR">
+    <e>
       <p>
         <l>behargin<s n="n"/></l> 
         <r>travailleur<s n="n"/><s n="GD"/><s n="ND"/></r> 
@@ -18598,12 +18598,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>bidaiari<s n="n"/></l> 
-        <r>voyageur<s n="n"/></r> 
+        <r>voyageur<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -19896,12 +19896,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>bizilagun<s n="n"/></l> 
-        <r>voisin<s n="n"/></r> 
+        <r>voisin<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36689,12 +36689,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e c="new-category">
       <p>
         <l>galiziar<s n="n"/></l> 
-        <r>galicien<s n="n"/></r> 
+        <r>galicien<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36964,12 +36964,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>garaile<s n="n"/></l> 
-        <r>vainqueur<s n="n"/></r> 
+        <r>vainqueur<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37085,12 +37085,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>garatzaile<s n="n"/></l> 
-        <r>développeur<s n="n"/></r> 
+        <r>développeur<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37558,12 +37558,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>gatibu<s n="n"/></l> 
-        <r>prisonnier<s n="n"/></r> 
+        <r>prisonnier<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40561,12 +40561,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>greziar<s n="n"/></l> 
-        <r>grec<s n="n"/></r> 
+        <r>grec<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -43949,12 +43949,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>hiltzaile<s n="n"/></l> 
-        <r>assassin<s n="n"/></r> 
+        <r>assassin<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -45741,10 +45741,10 @@
     </e>
 
     <!-- 
-	forced 'LR' restriction
-      ND3-8
+	forced 'null' restriction
+      nom-GD-ND
     -->
-    <e r="LR">
+    <e>
       <p>
         <l>idazle<s n="n"/></l> 
         <r>écrivain<s n="n"/><s n="GD"/><s n="ND"/></r> 
@@ -47392,12 +47392,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>informatikari<s n="n"/></l> 
-        <r>informaticien<s n="n"/></r> 
+        <r>informaticien<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -48503,12 +48503,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>irabazle<s n="n"/></l> 
-        <r>gagnant<s n="n"/></r> 
+        <r>gagnant<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -50340,12 +50340,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>itzultzaile<s n="n"/></l> 
-        <r>traducteur<s n="n"/></r> 
+        <r>traducteur<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -51682,12 +51682,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>jarraitzaile<s n="n"/></l> 
-        <r>partisan<s n="n"/></r> 
+        <r>partisan<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -52375,23 +52375,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>jokalari<s n="n"/></l> 
-        <r>joueur<s n="n"/></r> 
+        <r>joueur<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>jokalari<s n="n"/></l> 
-        <r>équipier<s n="n"/></r> 
+        <r>équipier<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -52540,12 +52540,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>judu<s n="n"/></l> 
-        <r>juif<s n="n"/></r> 
+        <r>juif<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -54234,12 +54234,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>kide<s n="n"/></l> 
-        <r>compagnon<s n="n"/></r> 
+        <r>compagnon<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -55917,12 +55917,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>kontseilari<s n="n"/></l> 
-        <r>conseiller<s n="n"/></r> 
+        <r>conseiller<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -56148,12 +56148,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>koordinatzaile<s n="n"/></l> 
-        <r>coordinateur<s n="n"/></r> 
+        <r>coordinateur<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -57622,12 +57622,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>langile<s n="n"/></l> 
-        <r>travailleur<s n="n"/></r> 
+        <r>travailleur<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -58567,10 +58567,10 @@
     </e>
 
     <!-- 
-	forced 'LR' restriction
-      ND3-8
+	forced 'null' restriction
+      nom-GD-ND
     -->
-    <e r="LR">
+    <e>
       <p>
         <l>lehendakari<s n="n"/></l> 
         <r>président<s n="n"/><s n="GD"/><s n="ND"/></r> 
@@ -58590,12 +58590,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>lehendakariorde<s n="n"/></l> 
-        <r>vice-président<s n="n"/></r> 
+        <r>vice-président<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -58700,12 +58700,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>lehengusu<s n="n"/></l> 
-        <r>cousin<s n="n"/></r> 
+        <r>cousin<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60680,12 +60680,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>maisu<s n="n"/></l> 
-        <r>maître<s n="n"/></r> 
+        <r>maître<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61263,12 +61263,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>marinel<s n="n"/></l> 
-        <r>marin<s n="n"/></r> 
+        <r>marin<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61868,12 +61868,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>mendeko<s n="n"/></l> 
-        <r>inférieur<s n="n"/></r> 
+        <r>inférieur<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61956,12 +61956,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>mendizale<s n="n"/></l> 
-        <r>montagnard<s n="n"/></r> 
+        <r>montagnard<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -68116,12 +68116,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>ordezko<s n="n"/></l> 
-        <r>remplaçant<s n="n"/></r> 
+        <r>remplaçant<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -69260,12 +69260,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>palestinar<s n="n"/></l> 
-        <r>palestinien<s n="n"/></r> 
+        <r>palestinien<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -71955,12 +71955,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>presidenteorde<s n="n"/></l> 
-        <r>vice-président<s n="n"/></r> 
+        <r>vice-président<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73187,12 +73187,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>sailburu<s n="n"/></l> 
-        <r>conseiller<s n="n"/></r> 
+        <r>conseiller<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -74419,12 +74419,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>senatari<s n="n"/></l> 
-        <r>sénateur<s n="n"/></r> 
+        <r>sénateur<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -75816,12 +75816,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>suhiltzaile<s n="n"/></l> 
-        <r>pompier<s n="n"/></r> 
+        <r>pompier<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -75871,12 +75871,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-GD-ND
     -->
     <e>
       <p>
         <l>sukaldari<s n="n"/></l> 
-        <r>cuisinier<s n="n"/></r> 
+        <r>cuisinier<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
