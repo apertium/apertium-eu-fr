@@ -28,14 +28,14 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	lt-comp lr $(BASENAME).$(PREFIX1).dix $@
 ##	rm tmp$(PREFIX1).autobil.dix
 
-$(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
-	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
-	lt-comp rl $(BASENAME).$(LANG2).dix $@
-
 $(BASENAME)-$(PREFIX1).$(LANG2).dix: $(BASENAME)-$(PREFIX1).$(LANG2).metadix
 	@xsltproc buscaPar.xsl apertium-$(PREFIX1).$(LANG2).metadix | uniq > tmp2gen.xsl 	 
 	@xsltproc tmp2gen.xsl apertium-$(PREFIX1).$(LANG2).metadix >$ $@
 	@rm tmp2gen.xsl
+
+$(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
+	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
+	lt-comp rl $(BASENAME).$(LANG2).dix $@
 	
 $(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 	apertium-validate-dictionary $(BASENAME).post-$(LANG2).dix
