@@ -1,8 +1,24 @@
 * text=auto !eol
+/AUTHORS -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
 /apertium-eu-fr.eu-fr.dix -text
 /apertium-eu-fr.eu-fr.t1x -text
+/apertium-eu-fr.eu-fr.t2x -text
+/apertium-eu-fr.eu-fr.t3x -text
 /apertium-eu-fr.eu.dix -text
+/apertium-eu-fr.eu.tsx -text
 /apertium-eu-fr.fr.metadix -text
+/apertium-eu-fr.ordinals.t1x -text
+/apertium-eu-fr.post-fr.dix -text
+/autogen.sh -text
+/buscaPar.xsl -text
+/configure.ac -text
 dev/cross-model-eu-es-fr.xml -text
 dev/cross.xml -text
 dev/patterns-not-detected.xml -text
+/eu-fr.prob -text svneol=unset#unset
+/modes.xml -text
+/principal.xsl -text
