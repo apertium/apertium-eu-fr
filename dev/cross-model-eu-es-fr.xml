@@ -1899,5 +1899,61 @@
 </action-set>
 </cross-action>
 <!-- 1 entries like this -->
+<cross-action id="bat-un-1">
+	<pattern>
+    <e r="LR">
+      <p>
+        <l>bat<s n="num"/></l> 
+        <r>uno<s n="det"/><s n="ind"/><s n="GD"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>uno<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></l> 
+        <r>un<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>bat<s n="num"/></l> 
+        <r>un<s n="det"/><s n="ind"/><s n="GD"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<cross-action id="bat-un-2">
+	<pattern>
+    <e r="LR">
+      <p>
+        <l>bat<s n="num"/></l> 
+        <r>uno<s n="det"/><s n="ind"/><s n="GD"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>uno<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></l> 
+        <r>un<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>bat<s n="num"/></l> 
+        <r>un<s n="det"/><s n="ind"/><s n="GD"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
 
 </cross-model>

@@ -3,7 +3,7 @@
 	Dictionary:
 	Bilingual dictionary: eu-fr
 	Sections: 1
-	Entries: 7577
+	Entries: 7578
 	Sdefs: 261
       
       Patterns applied:
@@ -56,6 +56,7 @@
       	numeral-24 (8 times)
       	numeral-135 (1 times)
       	numeral-166 (1 times)
+      	bat-un-1 (1 times)
 
 -->
 <dictionary>
@@ -15538,6 +15539,17 @@
       <p>
         <l>basoko<s n="adj"/></l> 
         <r>forestier<s n="adj"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'LR' restriction
+      bat-un-1
+    -->
+    <e r="LR">
+      <p>
+        <l>bat<s n="num"/></l> 
+        <r>un<s n="det"/><s n="ind"/><s n="GD"/></r> 
       </p>
     </e>
 
