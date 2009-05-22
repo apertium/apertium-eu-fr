@@ -16341,7 +16341,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	      <tag><lit-tag v="ND"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="para"/>
+	      <lit v="pour"/>
 	      <lit-tag v="pr"/>
 	    </lu>
 	    <b/>
@@ -16514,7 +16514,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	      <tag><lit-tag v="ger"/></tag>
 	    </tags>
 	    <lu>
-	      <lit v="haber"/>
+	      <lit v="avoir"/>
 	      <lit-tag v="vbhaver.ger"/>
 	    </lu>
 	    <b/>
@@ -16687,7 +16687,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	</call-macro>
 	<let>
 	  <clip pos="2" side="tl" part="lem"/>
-	  <lit v="haber"/>
+	  <lit v="avoir"/>
 	</let>
 	<let>
 	  <clip pos="2" side="tl" part="a_verb"/>
@@ -16989,7 +16989,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	</call-macro>
 	<let>
 	  <clip pos="2" side="tl" part="lem"/>
-	  <lit v="haber"/>
+	  <lit v="avoir"/>
 	</let>
 	<let>
 	  <clip pos="2" side="tl" part="a_verb"/>
@@ -17332,7 +17332,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	</call-macro>
 	<let>
 	  <clip pos="3" side="tl" part="lem"/>
-	  <lit v="haber"/>
+	  <lit v="avoir"/>
 	</let>
 	<let>
 	  <clip pos="3" side="tl" part="a_verb"/>
@@ -17624,7 +17624,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	</call-macro>
 	<let>
 	  <clip pos="3" side="tl" part="lem"/>
-	  <lit v="haber"/>
+	  <lit v="avoir"/>
 	</let>
 	<let>
 	  <clip pos="3" side="tl" part="a_verb"/>
@@ -18201,7 +18201,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	</choose>
 	<let>
 	  <clip pos="3" side="tl" part="lem"/>
-	  <lit v="haber"/>
+	  <lit v="avoir"/>
 	</let>
 	<let>
 	  <clip pos="3" side="tl" part="a_verb"/>
@@ -18343,7 +18343,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	</choose>
 	<let>
 	  <clip pos="4" side="tl" part="lem"/>
-	  <lit v="haber"/>
+	  <lit v="avoir"/>
 	</let>
 	<let>
 	  <clip pos="4" side="tl" part="a_verb"/>
@@ -18962,7 +18962,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	</call-macro>
 	<let>
 	  <clip pos="2" side="tl" part="lem"/>
-	  <lit v="poder"/>
+	  <lit v="pouvoir"/>
 	</let>
 	<let>
 	  <clip pos="2" side="tl" part="a_verb"/>
