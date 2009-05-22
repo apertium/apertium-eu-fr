@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-fr
 	Sections: 1
-	Entries: 7580
+	Entries: 7579
 	Sdefs: 261
       
       Patterns applied:
-      	default (727 times)
+      	default (716 times)
       	ND-37 (2 times)
       	ND-38 (17 times)
       	ND-36 (3 times)
@@ -47,6 +47,12 @@
       	post-pr (25 times)
       	vbsint-vblex (32 times)
       	vbsint-vbser (2 times)
+      	indizl-90 (2 times)
+      	indizl-89 (1 times)
+      	indizl-91 (2 times)
+      	prnind-93 (2 times)
+      	prnind-94 (2 times)
+      	nom-106 (1 times)
 
 -->
 <dictionary>
@@ -21987,24 +21993,24 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      prnind-94
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>den-dena<s n="prn"/><s n="ind"/><s n="sg"/></l> 
-        <r>tout<s n="prn"/></r> 
+        <r>tout<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      prnind-94
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>dena<s n="prn"/><s n="ind"/><s n="sg"/></l> 
-        <r>tout<s n="prn"/></r> 
+        <r>tout<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -24341,67 +24347,45 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      indizl-90
     -->
     <e>
       <p>
         <l>edozein<s n="det"/><s n="indizl"/><s n="sg"/></l> 
-        <r>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="f"/></r> 
+        <r>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="GD"/><s n="sg"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      indizl-91
     -->
     <e>
       <p>
         <l>edozein<s n="det"/><s n="indizl"/><s n="sg"/></l> 
-        <r>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="m"/></r> 
+        <r>cualquier<s n="det"/><s n="ind"/><s n="GD"/><s n="sg"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>edozein<s n="det"/><s n="indizl"/><s n="sg"/></l> 
-        <r>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="GD"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      indizl-90
     -->
     <e>
       <p>
         <l>edozer<s n="det"/><s n="indizl"/><s n="sg"/></l> 
-        <r>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="f"/></r> 
+        <r>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="GD"/><s n="sg"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      indizl-91
     -->
     <e>
       <p>
         <l>edozer<s n="det"/><s n="indizl"/><s n="sg"/></l> 
-        <r>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>edozer<s n="det"/><s n="indizl"/><s n="sg"/></l> 
-        <r>n'importe<b/>quel<s n="det"/><s n="ind"/><s n="GD"/></r> 
+        <r>cualquier<s n="det"/><s n="ind"/><s n="GD"/><s n="sg"/></r> 
       </p>
     </e>
 
@@ -38113,12 +38097,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      nom-106
     -->
     <e>
       <p>
         <l>gehiengo<s n="n"/></l> 
-        <r>majorité<s n="n"/><s n="f"/><s n="sg"/></r> 
+        <r>majorité<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -81530,6 +81514,17 @@
 
     <!-- 
 	forced 'null' restriction
+      indizl-89
+    -->
+    <e>
+      <p>
+        <l>zenbait<s n="det"/><s n="indizl"/><s n="sg"/></l> 
+        <r>quelque<s n="det"/><s n="ind"/><s n="mf"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -81827,12 +81822,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      prnind-93
     -->
     <e>
       <p>
         <l>zerbait<s n="prn"/><s n="ind"/></l> 
-        <r>quelque<b/>chose<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r> 
+        <r>quelque<b/>chose<s n="prn"/><s n="tn"/><s n="nt"/></r> 
       </p>
     </e>
 
@@ -82003,12 +81998,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      prnind-93
     -->
     <e>
       <p>
         <l>zertxobait<s n="prn"/><s n="ind"/></l> 
-        <r>quelque<b/>chose<s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r> 
+        <r>quelque<b/>chose<s n="prn"/><s n="tn"/><s n="nt"/></r> 
       </p>
     </e>
 
