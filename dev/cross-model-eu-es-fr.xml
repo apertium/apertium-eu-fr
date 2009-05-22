@@ -2013,7 +2013,7 @@
 </action-set>
 </cross-action>
 <!-- 3 entries like this -->
-<cross-action id="ND-74">
+<cross-action id="le-3">
 	<pattern>
     <e r="LR">
       <p>
@@ -2040,8 +2040,153 @@
     </e>
 </action>
 </action-set>
-
 </cross-action>
 <!-- 3 entries like this -->
+<cross-action id="le-4">
+	<pattern>
+    <e r="LR">
+      <p>
+        <l>a<s n="det"/><s n="art"/></l> 
+        <r>el<s n="det"/><s n="def"/><s n="GD"/></r> 
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l>el<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></l> 
+        <r>le<s n="det"/><s n="def"/><s n="mf"/><s n="pl"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>a<s n="det"/><s n="art"/></l> 
+        <r>le<s n="det"/><s n="def"/><s n="GD"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 3 entries like this -->
+<cross-action id="ND-205">
+	<pattern>
+    <e>
+      <p>
+        <l>Kristo<s n="np"/><s n="ant"/></l> 
+        <r>Cristo<s n="np"/><s n="al"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>Cristo<s n="np"/></l> 
+        <r>Christ<s n="np"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>Kristo<s n="np"/><s n="ant"/></l> 
+        <r>Christ<s n="np"/><s n="al"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+
+</cross-action>
+<!-- 1 entries like this -->
+<cross-action id="zzz-0">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adj"/></l> 
+        <r>$lemmaB<s n="adj"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="adj"/></l> 
+        <r>$lemmaC<s n="adj"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="adj"/></l> 
+        <r>$lemmaC<s n="adj"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 305 entries like this -->
+<cross-action id="zzz-1">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaB<s n="n"/><s n="m"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e r="LR" a="webform">
+      <p>
+        <l>$lemmaB<s n="n"/><s n="m"/><s n="sg"/></l> 
+        <r>$lemmaC<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaC<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 145 entries like this -->
+<cross-action id="zzz-2">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaB<s n="n"/><s n="m"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e r="LR" a="webform">
+      <p>
+        <l>$lemmaB<s n="n"/><s n="m"/></l> 
+        <r>$lemmaC<s n="n"/><s n="m"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e r="LR">
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaC<s n="n"/><s n="m"/><s n="ND"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+
 
 </cross-model>
