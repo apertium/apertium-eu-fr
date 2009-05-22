@@ -1,5 +1,6 @@
 * text=auto !eol
 /apertium-eu-fr.eu-fr.dix -text
+/apertium-eu-fr.eu-fr.t1x -text
 /apertium-eu-fr.eu.dix -text
 /apertium-eu-fr.fr.metadix -text
 dev/cross-model-eu-es-fr.xml -text
