@@ -14634,7 +14634,7 @@
 	forced 'null' restriction
       default
     -->
-    <e alt="eco">
+    <e>
       <p>
         <l>baliotsu<s n="adj"/></l> 
         <r>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></r> 
@@ -14645,7 +14645,7 @@
 	forced 'null' restriction
       ND2-9
     -->
-    <e alt="std">
+    <e>
       <p>
         <l>baliotsu<s n="adj"/></l> 
         <r>précieux<s n="adj"/><s n="GD"/><s n="sp"/></r> 
@@ -14656,7 +14656,7 @@
 	forced 'null' restriction
       ND-18
     -->
-    <e alt="std">
+    <e>
       <p>
         <l>baliotsu<s n="adj"/></l> 
         <r>précieux<s n="adj"/><s n="GD"/><s n="ND"/></r> 
@@ -14667,7 +14667,7 @@
 	forced 'null' restriction
       default
     -->
-    <e alt="eco">
+    <e>
       <p>
         <l>baliozko<s n="adj"/></l> 
         <r>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></r> 
@@ -14678,7 +14678,7 @@
 	forced 'null' restriction
       ND2-9
     -->
-    <e alt="std">
+    <e>
       <p>
         <l>baliozko<s n="adj"/></l> 
         <r>précieux<s n="adj"/><s n="GD"/><s n="sp"/></r> 
@@ -14689,7 +14689,7 @@
 	forced 'null' restriction
       ND-18
     -->
-    <e alt="std">
+    <e>
       <p>
         <l>baliozko<s n="adj"/></l> 
         <r>précieux<s n="adj"/><s n="GD"/><s n="ND"/></r> 
@@ -23651,7 +23651,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e alt="std">
+    <e>
       <p>
         <l>dotatu<s n="vblex"/></l> 
         <r>douer<s n="vblex"/></r> 
@@ -23662,7 +23662,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e alt="eco">
+    <e>
       <p>
         <l>dotatu<s n="vblex"/></l> 
         <r>doter<s n="vblex"/></r> 
@@ -40029,7 +40029,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e alt="std">
+    <e>
       <p>
         <l>gordailu<s n="n"/></l> 
         <r>dépôt<s n="n"/><s n="m"/><s n="ND"/></r> 
@@ -40040,7 +40040,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e alt="eco">
+    <e>
       <p>
         <l>gordailu<s n="n"/></l> 
         <r>avoir<s n="n"/><s n="m"/><s n="ND"/></r> 
@@ -67573,7 +67573,7 @@
 	forced 'null' restriction
       ND-6
     -->
-    <e alt="eco">
+    <e>
       <p>
         <l>ontasun<s n="n"/></l> 
         <r>avantage<s n="n"/><s n="m"/><s n="ND"/></r> 
