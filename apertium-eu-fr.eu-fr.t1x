@@ -5029,7 +5029,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="lem"/> 
-	      <lit v="él"/>
+	      <lit v="il"/>
 	    </let>
 	    <let>
 	      <clip pos="1" side="tl" part="det_prn"/> 
@@ -5100,7 +5100,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 		</test>
 		<let>
 		  <clip pos="1" side="tl" part="lem"/>
-		  <lit v="conmigo"/>
+		  <lit v="avec moi"/>
 		</let>
 	      </when>
 	      <when>
@@ -5112,7 +5112,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 		</test>
 		<let>
 		  <clip pos="1" side="tl" part="lem"/>
-		  <lit v="contigo"/>
+		  <lit v="avec toi"/>
 		</let>
 	      </when>
 	    </choose>		  
@@ -5137,24 +5137,24 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 		<test>
 		  <equal caseless="yes">
 		    <clip pos="1" side="tl" part="lem"/>
-		    <lit v="yo"/>
+		    <lit v="je"/>
 		  </equal>
 		</test>
 		<let>
 		  <clip pos="1" side="tl" part="lem"/>
-		  <lit v="mí"/>
+		  <lit v="moi"/>
 		</let>
 	      </when>
 	      <when>
 		<test>
 		  <equal caseless="yes">
 		    <clip pos="1" side="tl" part="lem"/>
-		    <lit v="tu"/>
+		    <lit v="tu"/> <!-- I assume this was 'tú', not 'tu' -->
 		  </equal>
 		</test>
 		<let>
 		  <clip pos="1" side="tl" part="lem"/>
-		  <lit v="ti"/>
+		  <lit v="toi"/>
 		</let>
 	      </when>
 	    </choose>    
@@ -5265,7 +5265,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 		  <tag><lit-tag v="sp"/></tag>
 		</tags>
 		<lu>
-		  <lit v="el uno del otro"/>
+		  <lit v="l'un de l'autrui"/> <!-- FIXME: add to monodix -->
 		  <lit-tag v="adj.mf.sp"/>
 		</lu>
 	    </chunk>
@@ -11403,7 +11403,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 		<let>
 		  <var n="palabra"/>
 		  <concat>
-		    <lit v="^el"/>
+		    <lit v="^le"/>
 		    <lit-tag v="det.def"/>
 		    <clip pos="1" side="tl" part="GD" link-to="3"/>
 		    <clip pos="1" side="tl" part="mf"/>
@@ -12027,7 +12027,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	    </test>
 	    <let>
 	      <clip pos="3" side="tl" part="lem"/> 
-	      <lit v="a"/>
+	      <lit v="à"/>
 	    </let>
 	  </when>
 	</choose>
@@ -14166,7 +14166,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	    </test>
 	    <let>
 	      <clip pos="4" side="tl" part="lem"/> 
-	      <lit v="uno"/>
+	      <lit v="un"/>
 	    </let>
 	    <let>
 	      <var n="tipusdet"/>
@@ -14310,7 +14310,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="lemh"/>
-	      <lit v="haber"/>
+	      <lit v="avoir"/> <!-- FIXME -->
 	    </let>
 	    <let>
 	      <clip pos="1" side="tl" part="a_verb"/>
@@ -14427,7 +14427,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	    </test>
 	    <let>
 	      <clip pos="4" side="tl" part="lemh"/>
-	      <lit v="haber"/>
+	      <lit v="avoir"/> <!-- FIXME -->
 	    </let>
 	    <let>
 	      <clip pos="4" side="tl" part="a_verb"/>
@@ -14446,7 +14446,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	    <let>
 	      <var n="palabra"/>
 	      <concat>
-		<lit v="por"/>
+		<lit v="par"/>
 		<lit-tag v="pr"/>
 	      </concat>
 	    </let>
@@ -14533,7 +14533,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="lemh"/>
-	      <lit v="haber"/>
+	      <lit v="avoir"/>
 	    </let>
 	    <let>
 	      <clip pos="1" side="tl" part="a_verb"/>
@@ -14708,7 +14708,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	    </test>
 	    <let>
 	      <clip pos="1" side="tl" part="lemh"/>
-	      <lit v="haber"/>
+	      <lit v="avoir"/>
 	    </let>
 	    <let>
 	      <clip pos="1" side="tl" part="a_verb"/>
@@ -15343,7 +15343,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	</call-macro>
 	<let>
 	  <clip pos="1" side="tl" part="lem"/>
-	  <lit v="poder"/>
+	  <lit v="pouvoir"/>
 	</let>
 	<let>
 	  <clip pos="1" side="tl" part="a_verb"/>
@@ -15546,7 +15546,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	</call-macro>
 	<let>
 	  <clip pos="2" side="tl" part="lem"/>
-	  <lit v="haber"/>
+	  <lit v="avoir"/>
 	</let>
 	<let>
 	  <clip pos="2" side="tl" part="a_verb"/>
@@ -15645,7 +15645,7 @@ Podría ampliarse a otros casos, para tratar las diferencias en la traducción de 
 	</call-macro>
 	<let>
 	  <clip pos="3" side="tl" part="lem"/>
-	  <lit v="haber"/>
+	  <lit v="avoir"/>
 	</let>
 	<let>
 	  <clip pos="3" side="tl" part="a_verb"/>
