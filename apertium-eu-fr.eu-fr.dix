@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-fr
 	Sections: 1
-	Entries: 7579
+	Entries: 7577
 	Sdefs: 261
       
       Patterns applied:
-      	default (673 times)
+      	default (661 times)
       	ND-37 (2 times)
       	ND-38 (17 times)
       	ND-36 (3 times)
@@ -53,6 +53,9 @@
       	prnind-94 (2 times)
       	nom-106 (1 times)
       	nom-GD-ND (46 times)
+      	numeral-24 (8 times)
+      	numeral-135 (1 times)
+      	numeral-166 (1 times)
 
 -->
 <dictionary>
@@ -15814,13 +15817,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      numeral-135
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>batto<s n="num"/></l> 
-        <r>un<s n="num"/></r> 
+        <r>un<s n="num"/><s n="m"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -16166,13 +16169,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      numeral-24
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>bederatziehun<s n="num"/><s n="pl"/></l> 
-        <r>neuf<b/>cents<s n="num"/></r> 
+        <r>neuf<b/>cents<s n="num"/><s n="GD"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -17761,13 +17764,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      numeral-24
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>berrehun<s n="num"/><s n="pl"/></l> 
-        <r>deux<b/>cents<s n="num"/></r> 
+        <r>deux<b/>cents<s n="num"/><s n="GD"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -20445,13 +20448,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      numeral-24
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>bostehun<s n="num"/><s n="pl"/></l> 
-        <r>cinq<b/>cents<s n="num"/></r> 
+        <r>cinq<b/>cents<s n="num"/><s n="GD"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -44146,13 +44149,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      numeral-24
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>hirurehun<s n="num"/><s n="pl"/></l> 
-        <r>trois<b/>cents<s n="num"/></r> 
+        <r>trois<b/>cents<s n="num"/><s n="GD"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -58270,13 +58273,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      numeral-24
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>laurehun<s n="num"/><s n="pl"/></l> 
-        <r>quatre<b/>cents<s n="num"/></r> 
+        <r>quatre<b/>cents<s n="num"/><s n="GD"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -62440,29 +62443,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>mila<s n="num"/><s n="pl"/></l> 
-        <r>mil<s n="num"/><s n="f"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>mila<s n="num"/><s n="pl"/></l> 
-        <r>mil<s n="num"/><s n="m"/><s n="sp"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      numeral-166
     -->
     <e>
       <p>
@@ -74121,13 +74102,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      numeral-24
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>seiehun<s n="num"/><s n="pl"/></l> 
-        <r>six<b/>cents<s n="num"/></r> 
+        <r>six<b/>cents<s n="num"/><s n="GD"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -81249,13 +81230,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      numeral-24
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>zazpiehun<s n="num"/><s n="pl"/></l> 
-        <r>sept<b/>cents<s n="num"/></r> 
+        <r>sept<b/>cents<s n="num"/><s n="GD"/><s n="sp"/></r> 
       </p>
     </e>
 
@@ -83141,13 +83122,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      numeral-24
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>zortziehun<s n="num"/><s n="pl"/></l> 
-        <r>huit<b/>cents<s n="num"/></r> 
+        <r>huit<b/>cents<s n="num"/><s n="GD"/><s n="sp"/></r> 
       </p>
     </e>
 
