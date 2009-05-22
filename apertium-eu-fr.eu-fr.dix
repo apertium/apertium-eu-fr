@@ -3,18 +3,18 @@
 	Dictionary:
 	Bilingual dictionary: eu-fr
 	Sections: 1
-	Entries: 7616
+	Entries: 7521
 	Sdefs: 261
       
       Patterns applied:
-      	default (1418 times)
+      	default (727 times)
       	ND-37 (2 times)
       	ND-38 (17 times)
       	ND-36 (3 times)
       	ND-33 (26 times)
       	ND-32 (28 times)
       	ND-31 (44 times)
-      	ND-30 (43 times)
+      	ND-30 (16 times)
       	ND-0 (1579 times)
       	ND-2 (1225 times)
       	ND-4 (320 times)
@@ -24,13 +24,11 @@
       	ND-9 (129 times)
       	ND-10 (109 times)
       	ND-15 (73 times)
-      	N-0 (1499 times)
+      	N-0 (1497 times)
       	ND-18 (64 times)
       	ND-19 (15 times)
       	ND-20 (62 times)
-      	ND-23 (4 times)
       	ND2-1 (129 times)
-      	ND2-0 (11 times)
       	ND2-2 (32 times)
       	ND2-8 (34 times)
       	ND2-9 (21 times)
@@ -38,6 +36,14 @@
       	ND2-5 (11 times)
       	ND2-4 (127 times)
       	ND2-3 (18 times)
+      	ND3-32 (7 times)
+      	ND3-0 (317 times)
+      	ND3-1 (209 times)
+      	ND3-2 (13 times)
+      	ND3-4 (57 times)
+      	ND3-6 (7 times)
+      	ND3-7 (27 times)
+      	ND3-8 (3 times)
 
 -->
 <dictionary>
@@ -532,12 +538,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-32
     -->
     <e>
       <p>
         <l>Al<b/>Kaeda<s n="np"/><s n="al"/></l> 
-        <r>Al-Qaida<s n="np"/></r> 
+        <r>Al-Qaida<s n="np"/><s n="al"/></r> 
       </p>
     </e>
 
@@ -686,12 +692,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>Andorrako<s n="adj"/></l> 
-        <r>andorran<s n="adj"/></r> 
+        <r>andorran<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -741,12 +747,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-32
     -->
     <e>
       <p>
         <l>Aralar<s n="np"/><s n="al"/></l> 
-        <r>Aralar<s n="np"/></r> 
+        <r>Aralar<s n="np"/><s n="al"/></r> 
       </p>
     </e>
 
@@ -961,23 +967,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-32
     -->
     <e>
       <p>
         <l>Batasun<s n="np"/><s n="al"/></l> 
-        <r>Batasuna<s n="np"/></r> 
+        <r>Batasuna<s n="np"/><s n="al"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-32
     -->
     <e>
       <p>
         <l>Batasuna<s n="np"/><s n="al"/></l> 
-        <r>Batasuna<s n="np"/></r> 
+        <r>Batasuna<s n="np"/><s n="al"/></r> 
       </p>
     </e>
 
@@ -1566,12 +1572,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-32
     -->
     <e>
       <p>
         <l>Etxerat<s n="np"/><s n="al"/></l> 
-        <r>Etxerat<s n="np"/></r> 
+        <r>Etxerat<s n="np"/><s n="al"/></r> 
       </p>
     </e>
 
@@ -1599,12 +1605,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-32
     -->
     <e>
       <p>
         <l>Eusko<b/>Alkartasuna<s n="np"/><s n="al"/></l> 
-        <r>Eusko<b/>Alkartasuna<s n="np"/></r> 
+        <r>Eusko<b/>Alkartasuna<s n="np"/><s n="al"/></r> 
       </p>
     </e>
 
@@ -1621,12 +1627,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-32
     -->
     <e>
       <p>
         <l>Ezker<b/>Batua<s n="np"/><s n="al"/></l> 
-        <r>Ezker<b/>Batua<s n="np"/></r> 
+        <r>Ezker<b/>Batua<s n="np"/><s n="al"/></r> 
       </p>
     </e>
 
@@ -2523,12 +2529,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>Kubako<s n="adj"/></l> 
-        <r>cubain<s n="adj"/></r> 
+        <r>cubain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -3964,12 +3970,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>abertzale<s n="n"/></l> 
-        <r>nationaliste<s n="n"/></r> 
+        <r>nationaliste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -3992,28 +3998,6 @@
       <p>
         <l>abeslari<s n="n"/></l> 
         <r>chanteur<s n="n"/><s n="GD"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="new-category">
-      <p>
-        <l>abeslari<s n="n"/></l> 
-        <r>chanteur<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="new-category">
-      <p>
-        <l>abeslari<s n="n"/></l> 
-        <r>chanteur<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -4217,12 +4201,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>absolutu<s n="adj"/></l> 
-        <r>absolu<s n="adj"/></r> 
+        <r>absolu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -4272,12 +4256,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>abstraktu<s n="adj"/></l> 
-        <r>abstrait<s n="adj"/></r> 
+        <r>abstrait<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -4349,12 +4333,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>adar<s n="n"/></l> 
-        <r>corne<s n="n"/><s n="f"/></r> 
+        <r>corne<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -4371,12 +4355,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>adarbakoitz<s n="n"/></l> 
-        <r>licorne<s n="n"/><s n="f"/></r> 
+        <r>licorne<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -4426,12 +4410,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>adi<s n="adj"/></l> 
-        <r>attentif<s n="adj"/></r> 
+        <r>attentif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -4470,7 +4454,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND2-0
+      ND3-0
     -->
     <e>
       <p>
@@ -4481,23 +4465,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>adierazgarri<s n="adj"/></l> 
-        <r>révélateur<s n="adj"/></r> 
+        <r>révélateur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>adierazgarri<s n="adj"/></l> 
-        <r>significatif<s n="adj"/></r> 
+        <r>significatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -4690,12 +4674,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>aditu<s n="adj"/></l> 
-        <r>expert<s n="adj"/></r> 
+        <r>expert<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -4745,12 +4729,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>administratibo<s n="adj"/></l> 
-        <r>administratif<s n="adj"/></r> 
+        <r>administratif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -4866,12 +4850,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>adreilu<s n="n"/></l> 
-        <r>brique<s n="n"/><s n="f"/></r> 
+        <r>brique<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -4965,23 +4949,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>afrikar<s n="adj"/></l> 
-        <r>africain<s n="adj"/></r> 
+        <r>africain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>agente<s n="n"/></l> 
-        <r>agent<s n="n"/></r> 
+        <r>agent<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -5152,12 +5136,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>aginduzko<s n="adj"/></l> 
-        <r>impératif<s n="adj"/></r> 
+        <r>impératif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -5251,12 +5235,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>agur<s n="n"/></l> 
-        <r>salutation<s n="n"/><s n="f"/></r> 
+        <r>salutation<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -5339,29 +5323,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ahaide<s n="n"/></l> 
-        <r>parent<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ahaide<s n="n"/></l> 
-        <r>parent<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -5724,12 +5686,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="quin exemple més bonic...">
       <p>
         <l>aireko<s n="adj"/></l> 
-        <r>aérien<s n="adj"/></r> 
+        <r>aérien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -6021,12 +5983,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>aktibo<s n="adj"/></l> 
-        <r>actif<s n="adj"/></r> 
+        <r>actif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -6626,12 +6588,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>aldi<s n="n"/></l> 
-        <r>période<s n="n"/><s n="f"/></r> 
+        <r>période<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -6670,12 +6632,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>aldibereko<s n="adj"/></l> 
-        <r>simultané<s n="adj"/></r> 
+        <r>simultané<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -6769,12 +6731,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>aleman<s n="adj"/></l> 
-        <r>allemand<s n="adj"/></r> 
+        <r>allemand<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -6791,12 +6753,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>alemaniar<s n="adj"/></l> 
-        <r>allemand<s n="adj"/></r> 
+        <r>allemand<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -6812,13 +6774,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>alfer<s n="adj"/></l> 
-        <r>inutile<s n="adj"/></r> 
+        <r>inutile<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -6956,12 +6918,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>alkoholismo<s n="n"/></l> 
-        <r>alcoolisme<s n="n"/><s n="f"/></r> 
+        <r>alcoolisme<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -6989,12 +6951,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e c="posar loyer de fr a es">
       <p>
         <l>alokairu<s n="n"/></l> 
-        <r>location<s n="n"/><s n="f"/></r> 
+        <r>location<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -7033,12 +6995,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>alpino<s n="adj"/></l> 
-        <r>alpin<s n="adj"/></r> 
+        <r>alpin<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -7066,12 +7028,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>alternatibo<s n="adj"/></l> 
-        <r>alternatif<s n="adj"/></r> 
+        <r>alternatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -7088,7 +7050,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND2-0
+      ND3-0
     -->
     <e>
       <p>
@@ -7242,12 +7204,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>amaiera<s n="n"/></l> 
-        <r>fin<s n="n"/><s n="f"/></r> 
+        <r>fin<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -7286,12 +7248,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>amaldeko<s n="adj"/></l> 
-        <r>maternel<s n="adj"/></r> 
+        <r>maternel<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -7319,7 +7281,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND2-0
+      ND3-0
     -->
     <e>
       <p>
@@ -7462,29 +7424,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>amorante<s n="n"/></l> 
-        <r>amant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>amorante<s n="n"/></l> 
-        <r>amant<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-6
     -->
     <e>
       <p>
@@ -7627,12 +7567,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>anbiguo<s n="adj"/></l> 
-        <r>ambigu<s n="adj"/></r> 
+        <r>ambigu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -7660,17 +7600,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>anbizio_handiko<s n="adj"/></l> 
-        <r>ambitieux<s n="adj"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       N-0
     -->
     <e>
@@ -7682,12 +7611,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>andaluz<s n="adj"/></l> 
-        <r>andalou<s n="adj"/></r> 
+        <r>andalou<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -7946,12 +7875,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>antolatzaile<s n="adj"/></l> 
-        <r>organisationnel<s n="adj"/></r> 
+        <r>organisationnel<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -8000,13 +7929,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>antzeko<s n="adj"/></l> 
-        <r>similaire<s n="adj"/></r> 
+        <r>similaire<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -8166,12 +8095,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>apal<s n="n"/></l> 
-        <r>étagère<s n="n"/><s n="f"/></r> 
+        <r>étagère<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -8474,7 +8403,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND2-0
+      ND3-0
     -->
     <e>
       <p>
@@ -8496,12 +8425,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>apur<s n="adj"/></l> 
-        <r>petit<s n="adj"/></r> 
+        <r>petit<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -8562,23 +8491,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ar<s n="adj"/></l> 
-        <r>masculin<s n="adj"/></r> 
+        <r>masculin<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>arabiar<s n="n"/></l> 
-        <r>arabe<s n="n"/></r> 
+        <r>arabe<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -8639,12 +8568,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>arau-emaile<s n="adj"/></l> 
-        <r>normatif<s n="adj"/></r> 
+        <r>normatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -8738,23 +8667,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>arbitro<s n="n"/></l> 
-        <r>arbitre<s n="n"/></r> 
+        <r>arbitre<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>arbitro<s n="n"/></l> 
-        <r>juge-arbitre<s n="n"/></r> 
+        <r>juge-arbitre<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -8925,12 +8854,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>arduradun<s n="n"/></l> 
-        <r>responsable<s n="n"/></r> 
+        <r>responsable<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -9112,12 +9041,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>argentinar<s n="adj"/></l> 
-        <r>argentin<s n="adj"/></r> 
+        <r>argentin<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -9134,12 +9063,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>argi<s n="adj"/></l> 
-        <r>clair<s n="adj"/></r> 
+        <r>clair<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -9222,12 +9151,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>argitaragabe<s n="adj"/></l> 
-        <r>inédit<s n="adj"/></r> 
+        <r>inédit<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -9266,12 +9195,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>argitasun<s n="n"/></l> 
-        <r>ingéniosité<s n="n"/><s n="f"/></r> 
+        <r>ingéniosité<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -9332,12 +9261,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>argitzeko<s n="adj"/></l> 
-        <r>explicatif<s n="adj"/></r> 
+        <r>explicatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -9442,17 +9371,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>arin<s n="adj"/></l> 
-        <r>léger<s n="adj"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-4
     -->
     <e>
@@ -9552,12 +9470,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>arku<s n="n"/></l> 
-        <r>arche<s n="n"/><s n="f"/></r> 
+        <r>arche<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -9629,12 +9547,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>armada<s n="n"/></l> 
-        <r>armée<s n="n"/><s n="f"/></r> 
+        <r>armée<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -9695,12 +9613,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>arnasa<s n="n"/></l> 
-        <r>haleine<s n="n"/><s n="f"/></r> 
+        <r>haleine<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -9827,12 +9745,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>arrakastatsu<s n="adj"/></l> 
-        <r>réussi<s n="adj"/></r> 
+        <r>réussi<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -9904,12 +9822,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>arrasto<s n="n"/></l> 
-        <r>trace<s n="n"/><s n="f"/></r> 
+        <r>trace<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -10311,12 +10229,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>arrotz<s n="adj"/></l> 
-        <r>étranger<s n="adj"/></r> 
+        <r>étranger<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -10421,12 +10339,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>arte<s n="n"/></l> 
-        <r>art<s n="n"/></r> 
+        <r>art<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -10520,12 +10438,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>artista<s n="n"/></l> 
-        <r>artiste<s n="n"/></r> 
+        <r>artiste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -10652,12 +10570,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>aseguru<s n="n"/></l> 
-        <r>assurance<s n="n"/><s n="f"/></r> 
+        <r>assurance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -10861,12 +10779,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>asmatze<s n="n"/></l> 
-        <r>réussite<s n="n"/><s n="f"/></r> 
+        <r>réussite<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -10905,12 +10823,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>aspaldiko<s n="adj"/></l> 
-        <r>ancien<s n="adj"/></r> 
+        <r>ancien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -10949,12 +10867,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>aspektu<s n="n"/></l> 
-        <r>allure<s n="n"/><s n="f"/></r> 
+        <r>allure<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -12049,12 +11967,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>atzerritar<s n="adj"/></l> 
-        <r>étranger<s n="adj"/></r> 
+        <r>étranger<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -12082,12 +12000,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>auhen<s n="n"/></l> 
-        <r>lamentation<s n="n"/><s n="f"/></r> 
+        <r>lamentation<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -12214,12 +12132,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>aulki<s n="n"/></l> 
-        <r>banquette<s n="n"/><s n="f"/></r> 
+        <r>banquette<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -12346,23 +12264,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>aurkikunde<s n="n"/></l> 
-        <r>découverte<s n="n"/><s n="f"/></r> 
+        <r>découverte<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>aurkikuntza<s n="n"/></l> 
-        <r>trouvaille<s n="n"/><s n="f"/></r> 
+        <r>trouvaille<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -12698,12 +12616,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>aurrerapen<s n="n"/></l> 
-        <r>avance<s n="n"/><s n="f"/></r> 
+        <r>avance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -12764,12 +12682,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>aurreratze<s n="n"/></l> 
-        <r>progression<s n="n"/><s n="f"/></r> 
+        <r>progression<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -12786,12 +12704,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>aurreratze<s n="n"/></l> 
-        <r>avance<s n="n"/><s n="f"/></r> 
+        <r>avance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -12940,12 +12858,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ausart<s n="adj"/></l> 
-        <r>osé<s n="adj"/></r> 
+        <r>osé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -13039,23 +12957,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>automobil<s n="n"/></l> 
-        <r>automobile<s n="n"/><s n="f"/></r> 
+        <r>automobile<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>automobil<s n="n"/></l> 
-        <r>voiture<s n="n"/><s n="f"/></r> 
+        <r>voiture<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -13413,12 +13331,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>azkar<s n="adj"/></l> 
-        <r>prêt<s n="adj"/></r> 
+        <r>prêt<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -13468,12 +13386,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>azken<s n="n"/></l> 
-        <r>fin<s n="n"/><s n="f"/></r> 
+        <r>fin<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -13501,12 +13419,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>azkenaurreko<s n="adj"/></l> 
-        <r>avant-dernier<s n="adj"/></r> 
+        <r>avant-dernier<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -13721,18 +13639,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>babes<s n="n"/></l> 
-        <r>protection<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      N-0
+      ND3-1
     -->
     <e>
       <p>
@@ -13743,12 +13650,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>babeserako<s n="adj"/></l> 
-        <r>défensif<s n="adj"/></r> 
+        <r>défensif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -13798,7 +13705,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND2-0
+      ND3-0
     -->
     <e>
       <p>
@@ -13842,12 +13749,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bahiketa<s n="n"/></l> 
-        <r>séquestration<s n="n"/><s n="f"/></r> 
+        <r>séquestration<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -13875,12 +13782,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bahitura<s n="n"/></l> 
-        <r>saisie<s n="n"/><s n="f"/></r> 
+        <r>saisie<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -13930,12 +13837,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>baiezko<s n="adj"/></l> 
-        <r>affirmatif<s n="adj"/></r> 
+        <r>affirmatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -14029,12 +13936,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>baimen<s n="n"/></l> 
-        <r>permission<s n="n"/><s n="f"/></r> 
+        <r>permission<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -14117,23 +14024,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bainu<s n="n"/></l> 
-        <r>baignade<s n="n"/><s n="f"/></r> 
+        <r>baignade<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bainu<s n="n"/></l> 
-        <r>toilette<s n="n"/><s n="f"/></r> 
+        <r>toilette<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -14150,23 +14057,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bainugela<s n="n"/></l> 
-        <r>baignade<s n="n"/><s n="f"/></r> 
+        <r>baignade<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bainugela<s n="n"/></l> 
-        <r>toilette<s n="n"/><s n="f"/></r> 
+        <r>toilette<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -14216,23 +14123,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>bakar<s n="adj"/></l> 
-        <r>exclusif<s n="adj"/></r> 
+        <r>exclusif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>bakar<s n="adj"/></l> 
-        <r>seul<s n="adj"/></r> 
+        <r>seul<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -14282,12 +14189,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>bakarti<s n="adj"/></l> 
-        <r>désert<s n="adj"/></r> 
+        <r>désert<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -14502,12 +14409,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>baliabide<s n="n"/></l> 
-        <r>ressource<s n="n"/><s n="f"/></r> 
+        <r>ressource<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -14535,12 +14442,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>balio<s n="n"/></l> 
-        <r>valeur<s n="n"/><s n="f"/></r> 
+        <r>valeur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -14821,12 +14728,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>banaketa<s n="n"/></l> 
-        <r>répartition<s n="n"/><s n="f"/></r> 
+        <r>répartition<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -14964,12 +14871,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bapore<s n="n"/></l> 
-        <r>vapeur<s n="n"/><s n="f"/></r> 
+        <r>vapeur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -15503,18 +15410,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>baso<s n="n"/></l> 
-        <r>forêt<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      N-0
+      ND3-1
     -->
     <e>
       <p>
@@ -15558,12 +15454,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>bat-bateko<s n="adj"/></l> 
-        <r>subit<s n="adj"/></r> 
+        <r>subit<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -15723,12 +15619,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>baterako<s n="adj"/></l> 
-        <r>conjoint<s n="adj"/></r> 
+        <r>conjoint<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -16086,12 +15982,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bazter<s n="n"/></l> 
-        <r>berge<s n="n"/><s n="f"/></r> 
+        <r>berge<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -16108,12 +16004,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bazter<s n="n"/></l> 
-        <r>rive<s n="n"/><s n="f"/></r> 
+        <r>rive<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -16426,24 +16322,24 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND3-8
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>behargin<s n="n"/></l> 
-        <r>travailleur<s n="n"/></r> 
+        <r>travailleur<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>behargin<s n="adj"/></l> 
-        <r>travailleur<s n="adj"/></r> 
+        <r>travailleur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -16713,12 +16609,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>behin-betiko<s n="adj"/></l> 
-        <r>définitif<s n="adj"/></r> 
+        <r>définitif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -16933,23 +16829,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>beldur<s n="n"/></l> 
-        <r>peur<s n="n"/><s n="f"/></r> 
+        <r>peur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>beldur<s n="n"/></l> 
-        <r>crainte<s n="n"/><s n="f"/></r> 
+        <r>crainte<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -17010,23 +16906,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>beltz<s n="adj"/></l> 
-        <r>noir<s n="adj"/></r> 
+        <r>noir<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>beltzaran<s n="adj"/></l> 
-        <r>brun<s n="adj"/></r> 
+        <r>brun<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -17087,12 +16983,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>benetako<s n="adj"/></l> 
-        <r>vrai<s n="adj"/></r> 
+        <r>vrai<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -17142,12 +17038,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>berant<s n="adj"/></l> 
-        <r>tardif<s n="adj"/></r> 
+        <r>tardif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -17351,12 +17247,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>berehalako<s n="adj"/></l> 
-        <r>immédiat<s n="adj"/></r> 
+        <r>immédiat<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -17494,12 +17390,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>berezko<s n="adj"/></l> 
-        <r>spontané<s n="adj"/></r> 
+        <r>spontané<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -17549,12 +17445,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bero<s n="n"/></l> 
-        <r>chaleur<s n="n"/><s n="f"/></r> 
+        <r>chaleur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -17604,12 +17500,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>berotegi<s n="n"/></l> 
-        <r>serre<s n="n"/><s n="f"/></r> 
+        <r>serre<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -17912,12 +17808,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>berri<s n="adj"/></l> 
-        <r>nouveau<s n="adj"/></r> 
+        <r>nouveau<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -18011,12 +17907,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>berritzaile<s n="adj"/></l> 
-        <r>innovateur<s n="adj"/></r> 
+        <r>innovateur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -18154,28 +18050,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>bertako<s n="n"/></l> 
-        <r>résident<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>bertako<s n="n"/></l> 
-        <r>résident<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-4
     -->
     <e>
@@ -18242,12 +18116,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>besarkada<s n="n"/></l> 
-        <r>embrassade<s n="n"/><s n="f"/></r> 
+        <r>embrassade<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -18308,34 +18182,34 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>betazal<s n="n"/></l> 
-        <r>paupière<s n="n"/><s n="f"/></r> 
+        <r>paupière<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>bete<s n="adj"/></l> 
-        <r>complet<s n="adj"/></r> 
+        <r>complet<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>bete<s n="adj"/></l> 
-        <r>plein<s n="adj"/></r> 
+        <r>plein<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -18385,12 +18259,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>bete-beteko<s n="adj"/></l> 
-        <r>complet<s n="adj"/></r> 
+        <r>complet<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -18583,12 +18457,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bibote<s n="n"/></l> 
-        <r>moustache<s n="n"/><s n="f"/></r> 
+        <r>moustache<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -18715,12 +18589,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bidegabe<s n="n"/></l> 
-        <r>offense<s n="n"/><s n="f"/></r> 
+        <r>offense<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -18759,12 +18633,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bidegurutze<s n="n"/></l> 
-        <r>croisée<s n="n"/><s n="f"/></r> 
+        <r>croisée<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -18792,12 +18666,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bideo<s n="n"/></l> 
-        <r>vidéo<s n="n"/><s n="f"/></r> 
+        <r>vidéo<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -19022,13 +18896,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bikain<s n="adj"/></l> 
-        <r>notable<s n="adj"/></r> 
+        <r>notable<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -19056,12 +18930,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>biki<s n="adj"/></l> 
-        <r>jumeau<s n="adj"/></r> 
+        <r>jumeau<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -19386,12 +19260,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>biluz<s n="adj"/></l> 
-        <r>nu<s n="adj"/></r> 
+        <r>nu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -19507,12 +19381,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>biribil<s n="adj"/></l> 
-        <r>rond<s n="adj"/></r> 
+        <r>rond<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -19650,29 +19524,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>bisitari<s n="n"/></l> 
-        <r>visiteur<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>bisitari<s n="n"/></l> 
-        <r>visiteur<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -19825,24 +19677,24 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>bizi<s n="adj"/></l> 
-        <r>agile<s n="adj"/></r> 
+        <r>agile<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>bizi<s n="adj"/></l> 
-        <r>vif<s n="adj"/></r> 
+        <r>vif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -19865,6 +19717,17 @@
       <p>
         <l>bizi<b/>izan<s n="vblex"/></l> 
         <r>résider<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND3-0
+    -->
+    <e>
+      <p>
+        <l>bizidun<s n="adj"/></l> 
+        <r>vif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -20002,12 +19865,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bizitzeko<s n="n"/></l> 
-        <r>nourriture<s n="n"/><s n="f"/></r> 
+        <r>nourriture<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -20035,12 +19898,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bizkar<s n="n"/></l> 
-        <r>longe<s n="n"/><s n="f"/></r> 
+        <r>longe<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -20068,29 +19931,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>biztanle<s n="n"/></l> 
-        <r>habitant<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>biztanle<s n="n"/></l> 
-        <r>habitant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -20255,12 +20096,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>boluntario<s n="adj"/></l> 
-        <r>volontaire<s n="adj"/></r> 
+        <r>volontaire<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -20365,12 +20206,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>borondatezko<s n="adj"/></l> 
-        <r>volontaire<s n="adj"/></r> 
+        <r>volontaire<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -20442,12 +20283,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>bortitz<s n="adj"/></l> 
-        <r>violent<s n="adj"/></r> 
+        <r>violent<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -20574,12 +20415,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>boteretsu<s n="adj"/></l> 
-        <r>puissant<s n="adj"/></r> 
+        <r>puissant<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -20640,29 +20481,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>boto-emaile<s n="n"/></l> 
-        <r>votant<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>boto-emaile<s n="n"/></l> 
-        <r>votant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -20816,12 +20635,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>brasildar<s n="adj"/></l> 
-        <r>brésilien<s n="adj"/></r> 
+        <r>brésilien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -20926,12 +20745,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bukaera<s n="n"/></l> 
-        <r>fin<s n="n"/><s n="f"/></r> 
+        <r>fin<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -20981,12 +20800,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bular<s n="n"/></l> 
-        <r>poitrine<s n="n"/><s n="f"/></r> 
+        <r>poitrine<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -21025,12 +20844,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>bultzada<s n="n"/></l> 
-        <r>impulsion<s n="n"/><s n="f"/></r> 
+        <r>impulsion<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -21256,12 +21075,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>burugabe<s n="adj"/></l> 
-        <r>insensé<s n="adj"/></r> 
+        <r>insensé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -21311,23 +21130,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-7
     -->
     <e>
       <p>
         <l>buruzagi<s n="n"/></l> 
-        <r>dirigeant<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>buruzagi<s n="n"/></l> 
-        <r>dirigeant<s n="n"/><s n="m"/></r> 
+        <r>dirigeant<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -21339,17 +21147,6 @@
       <p>
         <l>buruzagi<s n="n"/></l> 
         <r>cadre<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
-    -->
-    <e>
-      <p>
-        <l>buruzagi<s n="n"/></l> 
-        <r>dirigeant<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -21443,12 +21240,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>dagoen<s n="adj"/></l> 
-        <r>situé<s n="adj"/></r> 
+        <r>situé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -21597,12 +21394,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>datu<s n="n"/></l> 
-        <r>donnée<s n="n"/><s n="f"/></r> 
+        <r>donnée<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -21737,12 +21534,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>defentsa<s n="n"/></l> 
-        <r>défense<s n="n"/></r> 
+        <r>défense<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -21880,12 +21677,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>deitura<s n="n"/></l> 
-        <r>lignée<s n="n"/><s n="f"/></r> 
+        <r>lignée<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -22045,12 +21842,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>demokrata<s n="n"/></l> 
-        <r>démocrate<s n="n"/></r> 
+        <r>démocrate<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -22386,7 +22183,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND2-0
+      ND3-0
     -->
     <e>
       <p>
@@ -22474,12 +22271,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>deseroso<s n="adj"/></l> 
-        <r>gênant<s n="adj"/></r> 
+        <r>gênant<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -22826,12 +22623,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>detektibe<s n="n"/></l> 
-        <r>détective<s n="n"/></r> 
+        <r>détective<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -23365,12 +23162,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>distira<s n="n"/></l> 
-        <r>lueur<s n="n"/><s n="f"/></r> 
+        <r>lueur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -23475,12 +23272,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>doako<s n="adj"/></l> 
-        <r>gratuit<s n="adj"/></r> 
+        <r>gratuit<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -23673,12 +23470,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>dominikar<s n="adj"/></l> 
-        <r>dominicain<s n="adj"/></r> 
+        <r>dominicain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -24178,12 +23975,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ebolutibo<s n="adj"/></l> 
-        <r>évolutif<s n="adj"/></r> 
+        <r>évolutif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -24222,7 +24019,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND2-0
+      ND3-0
     -->
     <e>
       <p>
@@ -24233,23 +24030,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>eder<s n="adj"/></l> 
-        <r>bel<s n="adj"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>eder<s n="adj"/></l> 
-        <r>beau<s n="adj"/></r> 
+        <r>bel<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -24299,12 +24085,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>editorial<s n="n"/></l> 
-        <r>maison<g><b/>d'édition</g><s n="n"/></r> 
+        <r>maison<g><b/>d'édition</g><s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -24673,12 +24459,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>egiazko<s n="adj"/></l> 
-        <r>vrai<s n="adj"/></r> 
+        <r>vrai<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -25091,23 +24877,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>egoki<s n="adj"/></l> 
-        <r>approprié<s n="adj"/></r> 
+        <r>approprié<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egoki<s n="adj"/></l> 
-        <r>convenable<s n="adj"/></r> 
+        <r>convenable<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -25124,12 +24910,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>egoki<s n="adj"/></l> 
-        <r>opportun<s n="adj"/></r> 
+        <r>opportun<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -25145,13 +24931,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>egoki<s n="adj"/></l> 
-        <r>originaire<s n="adj"/></r> 
+        <r>originaire<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -25399,7 +25185,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND2-0
+      ND3-0
     -->
     <e c="new-category">
       <p>
@@ -25410,12 +25196,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>eguneroko<s n="adj"/></l> 
-        <r>quotidien<s n="adj"/></r> 
+        <r>quotidien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -25449,17 +25235,6 @@
       <p>
         <l>egunsenti<s n="n"/></l> 
         <r>aube<s n="n"/><s n="f"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>egunsenti<s n="n"/></l> 
-        <r>aube<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -25586,12 +25361,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>ehun<s n="n"/></l> 
-        <r>centaine<s n="n"/><s n="f"/></r> 
+        <r>centaine<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -25806,12 +25581,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>ekintzaile<s n="n"/></l> 
-        <r>activiste<s n="n"/></r> 
+        <r>activiste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -25905,12 +25680,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>ekonomialari<s n="n"/></l> 
-        <r>économiste<s n="n"/></r> 
+        <r>économiste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -25927,12 +25702,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>ekonomista<s n="n"/></l> 
-        <r>économiste<s n="n"/></r> 
+        <r>économiste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -26103,12 +25878,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>elikagai<s n="n"/></l> 
-        <r>nourriture<s n="n"/><s n="f"/></r> 
+        <r>nourriture<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -26125,12 +25900,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>elikagarri<s n="n"/></l> 
-        <r>nourriture<s n="n"/><s n="f"/></r> 
+        <r>nourriture<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -26213,12 +25988,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>elkarrekiko<s n="adj"/></l> 
-        <r>mutuel<s n="adj"/></r> 
+        <r>mutuel<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -26268,12 +26043,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>elkarren_segidako<s n="adj"/></l> 
-        <r>consécutif<s n="adj"/></r> 
+        <r>consécutif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -26521,28 +26296,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>emaile<s n="n"/></l> 
-        <r>donneur<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>emaile<s n="n"/></l> 
-        <r>donneur<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-2
     -->
     <e>
@@ -26664,12 +26417,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>emankor<s n="adj"/></l> 
-        <r>productif<s n="adj"/></r> 
+        <r>productif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -26873,12 +26626,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>enkargu<s n="n"/></l> 
-        <r>requête<s n="n"/><s n="f"/></r> 
+        <r>requête<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -27203,12 +26956,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>epaitza<s n="n"/></l> 
-        <r>faute<s n="n"/><s n="f"/></r> 
+        <r>faute<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -27401,12 +27154,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>erabakigarri<s n="adj"/></l> 
-        <r>décisif<s n="adj"/></r> 
+        <r>décisif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -27423,12 +27176,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>erabateko<s n="adj"/></l> 
-        <r>accablant<s n="adj"/></r> 
+        <r>accablant<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -27621,23 +27374,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>eragile<s n="n"/></l> 
-        <r>agent<s n="n"/></r> 
+        <r>agent<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>eragile<s n="adj"/></l> 
-        <r>effectif<s n="adj"/></r> 
+        <r>effectif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -27764,23 +27517,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>eragingarri<s n="adj"/></l> 
-        <r>opérationnel<s n="adj"/></r> 
+        <r>opérationnel<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>eraginkor<s n="adj"/></l> 
-        <r>effectif<s n="adj"/></r> 
+        <r>effectif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -28028,12 +27781,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>erakargarri<s n="adj"/></l> 
-        <r>attractif<s n="adj"/></r> 
+        <r>attractif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -28127,12 +27880,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>erakusleiho<s n="n"/></l> 
-        <r>vitrine<s n="n"/><s n="f"/></r> 
+        <r>vitrine<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -28402,12 +28155,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>erantzule<s n="n"/></l> 
-        <r>responsable<s n="n"/></r> 
+        <r>responsable<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -28490,12 +28243,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>erasoaldi<s n="n"/></l> 
-        <r>attaque<s n="n"/><s n="f"/></r> 
+        <r>attaque<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -28896,13 +28649,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>ergel<s n="adj"/></l> 
-        <r>imbécile<s n="adj"/></r> 
+        <r>imbécile<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -28941,12 +28694,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>erlatibo<s n="adj"/></l> 
-        <r>relatif<s n="adj"/></r> 
+        <r>relatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -29051,23 +28804,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>erloju<s n="n"/></l> 
-        <r>horloge<s n="n"/><s n="f"/></r> 
+        <r>horloge<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>erloju<s n="n"/></l> 
-        <r>montre<s n="n"/><s n="f"/></r> 
+        <r>montre<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -29084,12 +28837,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>erne<s n="adj"/></l> 
-        <r>attentif<s n="adj"/></r> 
+        <r>attentif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -29117,12 +28870,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ero<s n="adj"/></l> 
-        <r>fou<s n="adj"/></r> 
+        <r>fou<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -29865,12 +29618,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>erregulatzaile<s n="adj"/></l> 
-        <r>régulateur<s n="adj"/></r> 
+        <r>régulateur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -30151,34 +29904,34 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>errepublikako<s n="adj"/></l> 
-        <r>républicain<s n="adj"/></r> 
+        <r>républicain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>errepublikano<s n="adj"/></l> 
-        <r>républicain<s n="adj"/></r> 
+        <r>républicain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>errepublikazale<s n="adj"/></l> 
-        <r>républicain<s n="adj"/></r> 
+        <r>républicain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -30404,12 +30157,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>erretzaile<s n="adj"/></l> 
-        <r>fumeur<s n="adj"/></r> 
+        <r>fumeur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -30426,12 +30179,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>errezelo<s n="n"/></l> 
-        <r>méfiance<s n="n"/><s n="f"/></r> 
+        <r>méfiance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -30624,23 +30377,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>errore<s n="n"/></l> 
-        <r>maldonne<s n="n"/><s n="f"/></r> 
+        <r>maldonne<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>errore<s n="n"/></l> 
-        <r>erreur<s n="n"/><s n="f"/></r> 
+        <r>erreur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -30734,12 +30487,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>errumaniar<s n="adj"/></l> 
-        <r>roumain<s n="adj"/></r> 
+        <r>roumain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -30789,20 +30542,9 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
-      <p>
-        <l>ertain<s n="adj"/></l> 
-        <r>moyen<s n="adj"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND2-0
-    -->
-    <e>
       <p>
         <l>ertain<s n="adj"/></l> 
         <r>moyen<s n="adj"/><s n="GD"/><s n="ND"/></r> 
@@ -30833,29 +30575,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ertzain<s n="n"/></l> 
-        <r>policier<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ertzain<s n="n"/></l> 
-        <r>policier<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -30888,12 +30608,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>eruditu<s n="adj"/></l> 
-        <r>érudit<s n="adj"/></r> 
+        <r>érudit<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -30965,12 +30685,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>esanguratsu<s n="adj"/></l> 
-        <r>significatif<s n="adj"/></r> 
+        <r>significatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -31438,12 +31158,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>eskolta<s n="n"/></l> 
-        <r>escorte<s n="n"/></r> 
+        <r>escorte<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -31504,12 +31224,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>esku_bete<s n="n"/></l> 
-        <r>poignée<s n="n"/><s n="f"/></r> 
+        <r>poignée<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -31559,23 +31279,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>eskuin<s n="adj"/></l> 
-        <r>droit<s n="adj"/></r> 
+        <r>droit<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>eskuineko<s n="adj"/></l> 
-        <r>droit<s n="adj"/></r> 
+        <r>droit<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -31834,12 +31554,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>espainiar<s n="adj"/></l> 
-        <r>espagnol<s n="adj"/></r> 
+        <r>espagnol<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -31867,12 +31587,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>espainol<s n="adj"/></l> 
-        <r>espagnol<s n="adj"/></r> 
+        <r>espagnol<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -31889,12 +31609,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>esparru<s n="n"/></l> 
-        <r>enceinte<s n="n"/><s n="f"/></r> 
+        <r>enceinte<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -32582,23 +32302,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>estu<s n="adj"/></l> 
-        <r>angoissant<s n="adj"/></r> 
+        <r>angoissant<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>estu<s n="adj"/></l> 
-        <r>étroit<s n="adj"/></r> 
+        <r>étroit<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -32637,12 +32357,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>estudio<s n="n"/></l> 
-        <r>étude<s n="n"/><s n="f"/></r> 
+        <r>étude<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -32934,28 +32654,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>etorkin<s n="n"/></l> 
-        <r>immigrant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>etorkin<s n="n"/></l> 
-        <r>immigrant<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND2-4
     -->
     <e>
@@ -33000,12 +32698,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>etsai<s n="adj"/></l> 
-        <r>ennemi<s n="adj"/></r> 
+        <r>ennemi<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -33264,12 +32962,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>europar<s n="adj"/></l> 
-        <r>européen<s n="adj"/></r> 
+        <r>européen<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -33528,12 +33226,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ez_beharrezko<s n="adj"/></l> 
-        <r>superflu<s n="adj"/></r> 
+        <r>superflu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -33550,12 +33248,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ez_zuzen<s n="adj"/></l> 
-        <r>incorrect<s n="adj"/></r> 
+        <r>incorrect<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -33572,12 +33270,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>ezaguera<s n="n"/></l> 
-        <r>connaissance<s n="n"/><s n="f"/></r> 
+        <r>connaissance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -33616,12 +33314,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>ezagutza<s n="n"/></l> 
-        <r>connaissance<s n="n"/><s n="f"/></r> 
+        <r>connaissance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -33847,12 +33545,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ezezagun<s n="adj"/></l> 
-        <r>inconnu<s n="adj"/></r> 
+        <r>inconnu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -33869,12 +33567,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ezezko<s n="adj"/></l> 
-        <r>négatif<s n="adj"/></r> 
+        <r>négatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -33957,12 +33655,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>ezinikusi<s n="n"/></l> 
-        <r>rancoeur<s n="n"/><s n="f"/></r> 
+        <r>rancoeur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -34188,12 +33886,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ezohiko<s n="adj"/></l> 
-        <r>extraordinaire<s n="adj"/></r> 
+        <r>extraordinaire<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -34210,23 +33908,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ezohizko<s n="adj"/></l> 
-        <r>extraordinaire<s n="adj"/></r> 
+        <r>extraordinaire<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>ezpain<s n="n"/></l> 
-        <r>lèvre<s n="n"/><s n="f"/></r> 
+        <r>lèvre<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -34617,12 +34315,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>fantasma<s n="n"/></l> 
-        <r>fantôme<s n="n"/></r> 
+        <r>fantôme<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -34727,12 +34425,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>femenino<s n="adj"/></l> 
-        <r>féminin<s n="adj"/></r> 
+        <r>féminin<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -34892,12 +34590,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>fin<s n="adj"/></l> 
-        <r>délicat<s n="adj"/></r> 
+        <r>délicat<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -34925,12 +34623,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>final<s n="n"/></l> 
-        <r>fin<s n="n"/><s n="f"/></r> 
+        <r>fin<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -34969,12 +34667,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>finantzario<s n="adj"/></l> 
-        <r>financier<s n="adj"/></r> 
+        <r>financier<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -35189,12 +34887,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>flandestar<s n="adj"/></l> 
-        <r>flamand<s n="adj"/></r> 
+        <r>flamand<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -35475,12 +35173,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>franko<s n="adj"/></l> 
-        <r>franc<s n="adj"/></r> 
+        <r>franc<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -35904,29 +35602,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>futbolari<s n="n"/></l> 
-        <r>footballeur<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>futbolari<s n="n"/></l> 
-        <r>footballeur<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -36366,12 +36042,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>gaizkide<s n="n"/></l> 
-        <r>complice<s n="n"/></r> 
+        <r>complice<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36443,12 +36119,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>galant<s n="adj"/></l> 
-        <r>beau<s n="adj"/></r> 
+        <r>beau<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36586,12 +36262,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>galego<s n="adj"/></l> 
-        <r>galicien<s n="adj"/></r> 
+        <r>galicien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36685,12 +36361,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>galiziar<s n="adj"/></l> 
-        <r>galicien<s n="adj"/></r> 
+        <r>galicien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36718,12 +36394,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>galtzetin<s n="n"/></l> 
-        <r>chaussette<s n="n"/><s n="f"/></r> 
+        <r>chaussette<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36762,12 +36438,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>ganbera<s n="n"/></l> 
-        <r>caméra<s n="n"/></r> 
+        <r>caméra<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36850,12 +36526,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>garai<s n="adj"/></l> 
-        <r>élevé<s n="adj"/></r> 
+        <r>élevé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36883,12 +36559,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>garaikide<s n="adj"/></l> 
-        <r>contemporain<s n="adj"/></r> 
+        <r>contemporain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36905,12 +36581,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>garaile<s n="adj"/></l> 
-        <r>vainqueur<s n="adj"/></r> 
+        <r>vainqueur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37026,23 +36702,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>garbi<s n="adj"/></l> 
-        <r>net<s n="adj"/></r> 
+        <r>net<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>garbi<s n="adj"/></l> 
-        <r>pur<s n="adj"/></r> 
+        <r>pur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37114,12 +36790,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>garesti<s n="adj"/></l> 
-        <r>cher<s n="adj"/></r> 
+        <r>cher<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37147,12 +36823,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>garestitze<s n="n"/></l> 
-        <r>augmentation<g><b/>du<b/>prix</g><s n="n"/><s n="f"/></r> 
+        <r>augmentation<g><b/>du<b/>prix</g><s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37378,12 +37054,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>garratz<s n="adj"/></l> 
-        <r>amer<s n="adj"/></r> 
+        <r>amer<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37455,12 +37131,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>gastu<s n="n"/></l> 
-        <r>dépense<s n="n"/><s n="f"/></r> 
+        <r>dépense<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37477,12 +37153,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gatazkatsu<s n="adj"/></l> 
-        <r>conflictuel<s n="adj"/></r> 
+        <r>conflictuel<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37510,12 +37186,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gatz<s n="adj"/></l> 
-        <r>salin<s n="adj"/></r> 
+        <r>salin<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37708,12 +37384,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gazi<s n="adj"/></l> 
-        <r>salé<s n="adj"/></r> 
+        <r>salé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37741,45 +37417,45 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>gazte<s n="n"/></l> 
-        <r>jeune<s n="n"/></r> 
+        <r>jeune<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-6
     -->
     <e>
       <p>
         <l>gazte<s n="n"/></l> 
-        <r>jeune<b/>homme<s n="n"/><s n="m"/></r> 
+        <r>jeune<b/>homme<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-7
     -->
     <e>
       <p>
         <l>gazte<s n="n"/></l> 
-        <r>jeune<b/>fille<s n="n"/><s n="f"/></r> 
+        <r>jeune<b/>fille<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gazte<s n="adj"/></l> 
-        <r>juvénile<s n="adj"/></r> 
+        <r>juvénile<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37818,12 +37494,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gaztelau<s n="adj"/></l> 
-        <r>castillan<s n="adj"/></r> 
+        <r>castillan<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37884,12 +37560,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gehiegi<s n="adj"/></l> 
-        <r>excessif<s n="adj"/></r> 
+        <r>excessif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37939,12 +37615,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>gehiegizko<s n="n"/></l> 
-        <r>outrance<s n="n"/><s n="f"/></r> 
+        <r>outrance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -37961,12 +37637,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gehiegizko<s n="adj"/></l> 
-        <r>excessif<s n="adj"/></r> 
+        <r>excessif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -38158,13 +37834,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>geldi<s n="adj"/></l> 
-        <r>immobile<s n="adj"/></r> 
+        <r>immobile<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -38181,12 +37857,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>geldiezin<s n="adj"/></l> 
-        <r>inquiet<s n="adj"/></r> 
+        <r>inquiet<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -38434,12 +38110,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>geroko<s n="adj"/></l> 
-        <r>futur<s n="adj"/></r> 
+        <r>futur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -38544,23 +38220,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gerrazale<s n="adj"/></l> 
-        <r>guerrier<s n="adj"/></r> 
+        <r>guerrier<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>gerriko<s n="n"/></l> 
-        <r>ceinture<s n="n"/><s n="f"/></r> 
+        <r>ceinture<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -38742,12 +38418,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gezur<s n="adj"/></l> 
-        <r>incertain<s n="adj"/></r> 
+        <r>incertain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -38830,12 +38506,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>gidatzaile<s n="n"/></l> 
-        <r>guide<s n="n"/></r> 
+        <r>guide<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -38907,12 +38583,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>giro<s n="n"/></l> 
-        <r>ambiance<s n="n"/><s n="f"/></r> 
+        <r>ambiance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -38951,12 +38627,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>giza<s n="adj"/></l> 
-        <r>humain<s n="adj"/></r> 
+        <r>humain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -39028,12 +38704,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gizatiar<s n="adj"/></l> 
-        <r>humain<s n="adj"/></r> 
+        <r>humain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -39127,12 +38803,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gizonezko<s n="adj"/></l> 
-        <r>humain<s n="adj"/></r> 
+        <r>humain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -39369,12 +39045,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>gogoeta<s n="n"/></l> 
-        <r>pensée<s n="n"/><s n="f"/></r> 
+        <r>pensée<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -39413,23 +39089,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gogor<s n="adj"/></l> 
-        <r>dur<s n="adj"/></r> 
+        <r>dur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>gogor<s n="adj"/></l> 
-        <r>implacable<s n="adj"/></r> 
+        <r>implacable<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -39643,13 +39319,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>goiztiar<s n="adj"/></l> 
-        <r>précoce<s n="adj"/></r> 
+        <r>précoce<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -39765,12 +39441,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gora<s n="adj"/></l> 
-        <r>élevé<s n="adj"/></r> 
+        <r>élevé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -39996,12 +39672,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gordin<s n="adj"/></l> 
-        <r>cru<s n="adj"/></r> 
+        <r>cru<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40051,12 +39727,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>gorila<s n="n"/></l> 
-        <r>gorille<s n="n"/></r> 
+        <r>gorille<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40084,12 +39760,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>gorputz-adar<s n="n"/></l> 
-        <r>membre<s n="n"/></r> 
+        <r>membre<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40128,12 +39804,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>gorroto<s n="n"/></l> 
-        <r>haine<s n="n"/><s n="f"/></r> 
+        <r>haine<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40205,12 +39881,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gose<s n="adj"/></l> 
-        <r>affamé<s n="adj"/></r> 
+        <r>affamé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40227,12 +39903,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>goseti<s n="adj"/></l> 
-        <r>affamé<s n="adj"/></r> 
+        <r>affamé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40304,12 +39980,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>gozoki<s n="n"/></l> 
-        <r>sucrerie<s n="n"/><s n="f"/></r> 
+        <r>sucrerie<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40469,12 +40145,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>greko<s n="adj"/></l> 
-        <r>grec<s n="adj"/></r> 
+        <r>grec<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40491,12 +40167,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>greziar<s n="adj"/></l> 
-        <r>grec<s n="adj"/></r> 
+        <r>grec<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40579,12 +40255,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>guardia<s n="n"/></l> 
-        <r>garde<s n="n"/></r> 
+        <r>garde<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40612,12 +40288,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>gune<s n="n"/></l> 
-        <r>place<s n="n"/><s n="f"/></r> 
+        <r>place<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40689,12 +40365,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gustukoen<s n="adj"/></l> 
-        <r>favori<s n="adj"/></r> 
+        <r>favori<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40777,12 +40453,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>gutxieneko<s n="adj"/></l> 
-        <r>minimal<s n="adj"/></r> 
+        <r>minimal<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -40887,12 +40563,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>guztizko<s n="adj"/></l> 
-        <r>absolu<s n="adj"/></r> 
+        <r>absolu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -41338,12 +41014,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>handiagotze<s n="n"/></l> 
-        <r>augmentation<s n="n"/><s n="f"/></r> 
+        <r>augmentation<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -41745,12 +41421,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>harrigarri<s n="adj"/></l> 
-        <r>étonnant<s n="adj"/></r> 
+        <r>étonnant<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -41833,12 +41509,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>harro<s n="adj"/></l> 
-        <r>fier<s n="adj"/></r> 
+        <r>fier<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -41877,7 +41553,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND2-0
+      ND3-0
     -->
     <e>
       <p>
@@ -42075,12 +41751,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>hartzekodun<s n="adj"/></l> 
-        <r>créditeur<s n="adj"/></r> 
+        <r>créditeur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -42559,12 +42235,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>hauts<s n="n"/></l> 
-        <r>poussière<s n="n"/><s n="f"/></r> 
+        <r>poussière<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -42713,12 +42389,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>hazkunde<s n="n"/></l> 
-        <r>croissance<s n="n"/><s n="f"/></r> 
+        <r>croissance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -43098,12 +42774,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>heldu<s n="adj"/></l> 
-        <r>mûr<s n="adj"/></r> 
+        <r>mûr<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -43142,12 +42818,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>helegite<s n="n"/></l> 
-        <r>ressource<s n="n"/><s n="f"/></r> 
+        <r>ressource<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -43461,12 +43137,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>herrikide<s n="n"/></l> 
-        <r>compatriote<s n="n"/></r> 
+        <r>compatriote<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -43516,23 +43192,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>herrizain<s n="n"/></l> 
-        <r>agent<s n="n"/></r> 
+        <r>agent<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>hertsi<s n="adj"/></l> 
-        <r>strict<s n="adj"/></r> 
+        <r>strict<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -43593,12 +43269,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>hezigarri<s n="adj"/></l> 
-        <r>éducatif<s n="adj"/></r> 
+        <r>éducatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -44022,12 +43698,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>hiritar<s n="adj"/></l> 
-        <r>urbain<s n="adj"/></r> 
+        <r>urbain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -44121,12 +43797,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>historiko<s n="adj"/></l> 
-        <r>historique<s n="adj"/></r> 
+        <r>historique<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -44495,28 +44171,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>homosexual<s n="n"/></l> 
-        <r>homosexuel<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>homosexual<s n="n"/></l> 
-        <r>homosexuel<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-4
     -->
     <e>
@@ -44748,12 +44402,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>horail<s n="adj"/></l> 
-        <r>blond<s n="adj"/></r> 
+        <r>blond<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -44913,12 +44567,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>hortz<s n="n"/></l> 
-        <r>dent<s n="n"/><s n="f"/></r> 
+        <r>dent<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -44979,12 +44633,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>hotz<s n="adj"/></l> 
-        <r>froid<s n="adj"/></r> 
+        <r>froid<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -45199,12 +44853,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>hurbil<s n="adj"/></l> 
-        <r>prochain<s n="adj"/></r> 
+        <r>prochain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -45276,23 +44930,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>hurko<s n="adj"/></l> 
-        <r>prochain<s n="adj"/></r> 
+        <r>prochain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>hurrengo<s n="adj"/></l> 
-        <r>successif<s n="adj"/></r> 
+        <r>successif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -45353,12 +45007,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>huts<s n="adj"/></l> 
-        <r>vain<s n="adj"/></r> 
+        <r>vain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -45419,12 +45073,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>ibai<s n="n"/></l> 
-        <r>rivière<s n="n"/><s n="f"/></r> 
+        <r>rivière<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -45441,12 +45095,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>ibar<s n="n"/></l> 
-        <r>vallée<s n="n"/><s n="f"/></r> 
+        <r>vallée<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -45584,12 +45238,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ibiltari<s n="adj"/></l> 
-        <r>voyageur<s n="adj"/></r> 
+        <r>voyageur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -45660,13 +45314,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND3-8
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>idazle<s n="n"/></l> 
-        <r>écrivain<s n="n"/></r> 
+        <r>écrivain<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -45760,12 +45414,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>idolo<s n="n"/></l> 
-        <r>idole<s n="n"/><s n="f"/></r> 
+        <r>idole<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -45815,12 +45469,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>igarokor<s n="adj"/></l> 
-        <r>passager<s n="adj"/></r> 
+        <r>passager<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -45854,28 +45508,6 @@
       <p>
         <l>igeltsero<s n="n"/></l> 
         <r>maçon<s n="n"/><s n="GD"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>igeltsero<s n="n"/></l> 
-        <r>maçon<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>igeltsero<s n="n"/></l> 
-        <r>maçon<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -45925,12 +45557,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>igoera<s n="n"/></l> 
-        <r>hausse<s n="n"/><s n="f"/></r> 
+        <r>hausse<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -46145,23 +45777,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>ikasketa<s n="n"/></l> 
-        <r>étude<s n="n"/><s n="f"/></r> 
+        <r>étude<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>ikaskuntza<s n="n"/></l> 
-        <r>étude<s n="n"/><s n="f"/></r> 
+        <r>étude<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -46178,23 +45810,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-6
     -->
     <e>
       <p>
         <l>ikasle<s n="n"/></l> 
-        <r>étudiant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ikasle<s n="n"/></l> 
-        <r>étudiant<s n="n"/><s n="f"/></r> 
+        <r>étudiant<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -46684,12 +46305,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ilun<s n="adj"/></l> 
-        <r>obscur<s n="adj"/></r> 
+        <r>obscur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -46761,12 +46382,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>iluntze<s n="n"/></l> 
-        <r>tombée<g><b/>de<b/>la<b/>nuit</g><s n="n"/><s n="f"/></r> 
+        <r>tombée<g><b/>de<b/>la<b/>nuit</g><s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -46844,28 +46465,6 @@
       <p>
         <l>immigrante<s n="n"/></l> 
         <r>immigrant<s n="n"/><s n="GD"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>immigrante<s n="n"/></l> 
-        <r>immigrant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>immigrante<s n="n"/></l> 
-        <r>immigrant<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -47124,12 +46723,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>indiar<s n="adj"/></l> 
-        <r>indien<s n="adj"/></r> 
+        <r>indien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -47146,12 +46745,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>indigena<s n="n"/></l> 
-        <r>indigène<s n="n"/></r> 
+        <r>indigène<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -47311,12 +46910,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>infinitu<s n="adj"/></l> 
-        <r>infini<s n="adj"/></r> 
+        <r>infini<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -47377,12 +46976,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>informatzaile<s n="adj"/></l> 
-        <r>informatif<s n="adj"/></r> 
+        <r>informatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -48092,28 +47691,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>intelektual<s n="n"/></l> 
-        <r>intellectuel<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>intelektual<s n="n"/></l> 
-        <r>intellectuel<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND2-4
     -->
     <e>
@@ -48125,12 +47702,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>intentsibo<s n="adj"/></l> 
-        <r>intensif<s n="adj"/></r> 
+        <r>intensif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -48235,12 +47812,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>interprete<s n="n"/></l> 
-        <r>interprète<s n="n"/></r> 
+        <r>interprète<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -48367,12 +47944,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>iparramerikar<s n="adj"/></l> 
-        <r>nord-américain<s n="adj"/></r> 
+        <r>nord-américain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -48521,29 +48098,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>iragaitzazko<s n="n"/></l> 
-        <r>passant<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>iragaitzazko<s n="n"/></l> 
-        <r>passant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -48554,12 +48109,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>iragaitzazko<s n="adj"/></l> 
-        <r>transitoire<s n="adj"/></r> 
+        <r>transitoire<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -48642,12 +48197,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>irain<s n="n"/></l> 
-        <r>insulte<s n="n"/><s n="f"/></r> 
+        <r>insulte<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -48664,12 +48219,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>iraingarri<s n="adj"/></l> 
-        <r>offensif<s n="adj"/></r> 
+        <r>offensif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -48719,29 +48274,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>irakiar<s n="n"/></l> 
-        <r>irakien<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>irakiar<s n="n"/></l> 
-        <r>irakien<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -48939,12 +48472,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ireki<s n="adj"/></l> 
-        <r>ouvert<s n="adj"/></r> 
+        <r>ouvert<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -49016,12 +48549,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>irismen<s n="n"/></l> 
-        <r>portée<s n="n"/><s n="f"/></r> 
+        <r>portée<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -49665,29 +49198,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e c="new-category">
-      <p>
-        <l>israeldar<s n="n"/></l> 
-        <r>israélien<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="new-category">
-      <p>
-        <l>israeldar<s n="n"/></l> 
-        <r>israélien<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e c="new-category">
       <p>
@@ -49819,12 +49330,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>italiar<s n="adj"/></l> 
-        <r>italien<s n="adj"/></r> 
+        <r>italien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -49863,12 +49374,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>itsas<s n="adj"/></l> 
-        <r>marin<s n="adj"/></r> 
+        <r>marin<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -49962,12 +49473,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>itsastar<s n="adj"/></l> 
-        <r>marin<s n="adj"/></r> 
+        <r>marin<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -50017,12 +49528,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>itsusi<s n="adj"/></l> 
-        <r>laid<s n="adj"/></r> 
+        <r>laid<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -50105,12 +49616,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>itxi<s n="adj"/></l> 
-        <r>fermé<s n="adj"/></r> 
+        <r>fermé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -50193,12 +49704,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>itxurazko<s n="adj"/></l> 
-        <r>fictif<s n="adj"/></r> 
+        <r>fictif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -50534,12 +50045,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>izendapen<s n="n"/></l> 
-        <r>nomination<s n="n"/><s n="f"/></r> 
+        <r>nomination<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -50600,12 +50111,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>izerdi<s n="n"/></l> 
-        <r>sueur<s n="n"/><s n="f"/></r> 
+        <r>sueur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -50688,12 +50199,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>izter<s n="n"/></l> 
-        <r>cuisse<s n="n"/><s n="f"/></r> 
+        <r>cuisse<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -50742,13 +50253,13 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>izugarri<s n="adj"/></l> 
-        <r>horrible<s n="adj"/></r> 
+        <r>horrible<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -51007,12 +50518,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>jainkotiar<s n="adj"/></l> 
-        <r>divin<s n="adj"/></r> 
+        <r>divin<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -51040,12 +50551,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>jaiotza<s n="n"/></l> 
-        <r>naissance<s n="n"/><s n="f"/></r> 
+        <r>naissance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -51128,12 +50639,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>jaitsiera<s n="n"/></l> 
-        <r>descente<s n="n"/><s n="f"/></r> 
+        <r>descente<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -51216,12 +50727,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>jakintsu<s n="adj"/></l> 
-        <r>savant<s n="adj"/></r> 
+        <r>savant<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -51249,12 +50760,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>jakiunde<s n="n"/></l> 
-        <r>connaissance<s n="n"/><s n="f"/></r> 
+        <r>connaissance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -51304,23 +50815,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>janari<s n="n"/></l> 
-        <r>nourriture<s n="n"/><s n="f"/></r> 
+        <r>nourriture<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>jangela<s n="n"/></l> 
-        <r>salle<g><b/>à<b/>manger</g><s n="n"/><s n="f"/></r> 
+        <r>salle<g><b/>à<b/>manger</g><s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -51524,12 +51035,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>jarraiki<s n="adj"/></l> 
-        <r>continu<s n="adj"/></r> 
+        <r>continu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -51568,12 +51079,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>jarraitu<s n="adj"/></l> 
-        <r>continu<s n="adj"/></r> 
+        <r>continu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -51843,12 +51354,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>jatorri<s n="n"/></l> 
-        <r>origine<s n="n"/><s n="f"/></r> 
+        <r>origine<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -52085,12 +51596,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>jendetsu<s n="adj"/></l> 
-        <r>massif<s n="adj"/></r> 
+        <r>massif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -52118,29 +51629,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>jeneral<s n="n"/></l> 
-        <r>général<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>jeneral<s n="n"/></l> 
-        <r>général<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -52371,12 +51860,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>jokalari<s n="adj"/></l> 
-        <r>joueur<s n="adj"/></r> 
+        <r>joueur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -52525,12 +52014,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>judu<s n="adj"/></l> 
-        <r>juif<s n="adj"/></r> 
+        <r>juif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -52909,24 +52398,24 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'RL' restriction
+      ND3-2
     -->
-    <e>
+    <e r="RL">
       <p>
         <l>kaltegarri<s n="adj"/></l> 
-        <r>défavorable<s n="adj"/></r> 
+        <r>défavorable<s n="adj"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>kaltegarri<s n="adj"/></l> 
-        <r>nocif<s n="adj"/></r> 
+        <r>nocif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -52976,12 +52465,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>kanal<s n="n"/></l> 
-        <r>chaîne<s n="n"/><s n="f"/></r> 
+        <r>chaîne<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -52998,12 +52487,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>kanbio<s n="n"/></l> 
-        <r>saute<s n="n"/><s n="f"/></r> 
+        <r>saute<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -53257,28 +52746,6 @@
       <p>
         <l>kantari<s n="n"/></l> 
         <r>chanteur<s n="n"/><s n="GD"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="new-category">
-      <p>
-        <l>kantari<s n="n"/></l> 
-        <r>chanteur<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="new-category">
-      <p>
-        <l>kantari<s n="n"/></l> 
-        <r>chanteur<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -53570,12 +53037,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>kartel<s n="n"/></l> 
-        <r>affiche<s n="n"/><s n="f"/></r> 
+        <r>affiche<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -53669,12 +53136,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>kasko<s n="n"/></l> 
-        <r>coque<s n="n"/><s n="f"/></r> 
+        <r>coque<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -53724,12 +53191,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>katalan<s n="adj"/></l> 
-        <r>catalan<s n="adj"/></r> 
+        <r>catalan<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -53933,12 +53400,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>kazetari<s n="n"/></l> 
-        <r>journaliste<s n="n"/></r> 
+        <r>journaliste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -53966,12 +53433,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>ke<s n="n"/></l> 
-        <r>fumée<s n="n"/><s n="f"/></r> 
+        <r>fumée<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -54218,10 +53685,10 @@
     </e>
 
     <!-- 
-	forced 'RL' restriction
-      ND-23
+	forced 'null' restriction
+      ND3-4
     -->
-    <e r="RL">
+    <e>
       <p>
         <l>kide<s n="n"/></l> 
         <r>collègue<s n="n"/><s n="mf"/><s n="ND"/></r> 
@@ -54241,12 +53708,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>kide<s n="n"/></l> 
-        <r>membre<s n="n"/></r> 
+        <r>membre<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -54406,12 +53873,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>kiroletako<s n="adj"/></l> 
-        <r>sportif<s n="adj"/></r> 
+        <r>sportif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -54648,12 +54115,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>kognitibo<s n="adj"/></l> 
-        <r>cognitif<s n="adj"/></r> 
+        <r>cognitif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -54692,12 +54159,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>kohete<s n="n"/></l> 
-        <r>roquette<s n="n"/><s n="f"/></r> 
+        <r>roquette<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -54813,12 +54280,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>kolektibo<s n="adj"/></l> 
-        <r>collectif<s n="adj"/></r> 
+        <r>collectif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -54868,12 +54335,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>kolore<s n="n"/></l> 
-        <r>couleur<s n="n"/><s n="f"/></r> 
+        <r>couleur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -55099,12 +54566,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>komunista<s n="n"/></l> 
-        <r>communiste<s n="n"/></r> 
+        <r>communiste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -55935,12 +55402,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>kontserbadore<s n="adj"/></l> 
-        <r>conservateur<s n="adj"/></r> 
+        <r>conservateur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -55968,12 +55435,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>kontsolamendu<s n="n"/></l> 
-        <r>consolation<s n="n"/><s n="f"/></r> 
+        <r>consolation<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -55990,12 +55457,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>kontsul<s n="n"/></l> 
-        <r>consul<s n="n"/></r> 
+        <r>consul<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -56034,12 +55501,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>kontsumo<s n="n"/></l> 
-        <r>consommation<s n="n"/><s n="f"/></r> 
+        <r>consommation<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -56232,12 +55699,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>korde<s n="n"/></l> 
-        <r>connaissance<s n="n"/><s n="f"/></r> 
+        <r>connaissance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -56276,29 +55743,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>koronel<s n="n"/></l> 
-        <r>colonel<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>koronel<s n="n"/></l> 
-        <r>colonel<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -56397,12 +55842,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>kostako<s n="adj"/></l> 
-        <r>côtier<s n="adj"/></r> 
+        <r>côtier<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -56485,28 +55930,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>kriminal<s n="n"/></l> 
-        <r>criminel<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>kriminal<s n="n"/></l> 
-        <r>criminel<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND2-4
     -->
     <e>
@@ -56551,12 +55974,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>kristal<s n="n"/></l> 
-        <r>vitre<s n="n"/><s n="f"/></r> 
+        <r>vitre<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -56584,12 +56007,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>kristau<s n="adj"/></l> 
-        <r>chrétien<s n="adj"/></r> 
+        <r>chrétien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -56738,34 +56161,34 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>kualitatibo<s n="adj"/></l> 
-        <r>qualitatif<s n="adj"/></r> 
+        <r>qualitatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>kuantitatibo<s n="adj"/></l> 
-        <r>quantitatif<s n="adj"/></r> 
+        <r>quantitatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>kuartel<s n="n"/></l> 
-        <r>caserne<s n="n"/><s n="f"/></r> 
+        <r>caserne<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -57079,12 +56502,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>labur<s n="adj"/></l> 
-        <r>court<s n="adj"/></r> 
+        <r>court<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -57144,10 +56567,10 @@
     </e>
 
     <!-- 
-	forced 'RL' restriction
-      ND-23
+	forced 'null' restriction
+      ND3-4
     -->
-    <e r="RL">
+    <e>
       <p>
         <l>lagun<s n="n"/></l> 
         <r>camarade<s n="n"/><s n="mf"/><s n="ND"/></r> 
@@ -57244,12 +56667,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>lagunkoi<s n="adj"/></l> 
-        <r>amical<s n="adj"/></r> 
+        <r>amical<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -57298,10 +56721,10 @@
     </e>
 
     <!-- 
-	forced 'RL' restriction
-      ND-23
+	forced 'null' restriction
+      ND3-4
     -->
-    <e r="RL">
+    <e>
       <p>
         <l>laguntzaile<s n="n"/></l> 
         <r>auxiliaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
@@ -57662,23 +57085,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>langile<s n="adj"/></l> 
-        <r>ouvrier<s n="adj"/></r> 
+        <r>ouvrier<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>langile<s n="adj"/></l> 
-        <r>travailleur<s n="adj"/></r> 
+        <r>travailleur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -58223,12 +57646,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>latindar<s n="adj"/></l> 
-        <r>latin<s n="adj"/></r> 
+        <r>latin<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -58267,12 +57690,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>lau<s n="adj"/></l> 
-        <r>plat<s n="adj"/></r> 
+        <r>plat<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -58289,12 +57712,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>laurden<s n="n"/></l> 
-        <r>chambre<s n="n"/><s n="f"/></r> 
+        <r>chambre<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -58366,12 +57789,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>laztura<s n="n"/></l> 
-        <r>horreur<s n="n"/><s n="f"/></r> 
+        <r>horreur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -58596,21 +58019,21 @@
     </e>
 
     <!-- 
-	forced 'null' restriction
-      default
+	forced 'LR' restriction
+      ND3-8
     -->
-    <e>
+    <e r="LR">
       <p>
         <l>lehendakari<s n="n"/></l> 
-        <r>président<s n="n"/></r> 
+        <r>président<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
-	forced 'RL' restriction
-      ND-23
+	forced 'null' restriction
+      ND3-4
     -->
-    <e r="RL">
+    <e>
       <p>
         <l>lehendakari<s n="n"/></l> 
         <r>président<g><b/>du<b/>pays<b/>basque</g><s n="n"/><s n="mf"/><s n="ND"/></r> 
@@ -58817,12 +58240,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>leherkari<s n="adj"/></l> 
-        <r>explosif<s n="adj"/></r> 
+        <r>explosif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -58839,12 +58262,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>leherkor<s n="adj"/></l> 
-        <r>explosif<s n="adj"/></r> 
+        <r>explosif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -58927,29 +58350,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>lehiakide<s n="n"/></l> 
-        <r>rival<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>lehiakide<s n="n"/></l> 
-        <r>rival<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -58960,23 +58361,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>lehiakor<s n="adj"/></l> 
-        <r>compétitif<s n="adj"/></r> 
+        <r>compétitif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>lehiakor<s n="adj"/></l> 
-        <r>concurrentiel<s n="adj"/></r> 
+        <r>concurrentiel<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -59015,12 +58416,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>lehor<s n="adj"/></l> 
-        <r>sec<s n="adj"/></r> 
+        <r>sec<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -59081,12 +58482,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>leku<s n="n"/></l> 
-        <r>place<s n="n"/><s n="f"/></r> 
+        <r>place<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -59125,23 +58526,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>lekuko<s n="n"/></l> 
-        <r>témoin<s n="n"/></r> 
+        <r>témoin<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>lelo<s n="n"/></l> 
-        <r>devise<s n="n"/><s n="f"/></r> 
+        <r>devise<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -59158,12 +58559,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>lepo<s n="n"/></l> 
-        <r>encolure<s n="n"/><s n="f"/></r> 
+        <r>encolure<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -59411,12 +58812,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>lider<s n="n"/></l> 
-        <r>leader<s n="n"/></r> 
+        <r>leader<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -59466,12 +58867,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>likore<s n="n"/></l> 
-        <r>liqueur<s n="n"/><s n="f"/></r> 
+        <r>liqueur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60005,12 +59406,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>lotu<s n="adj"/></l> 
-        <r>sujet<s n="adj"/></r> 
+        <r>sujet<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60159,12 +59560,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>lurpeko<s n="adj"/></l> 
-        <r>souterrain<s n="adj"/></r> 
+        <r>souterrain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60346,12 +59747,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>luze<s n="adj"/></l> 
-        <r>long<s n="adj"/></r> 
+        <r>long<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60445,12 +59846,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>madarikatu<s n="adj"/></l> 
-        <r>maudit<s n="adj"/></r> 
+        <r>maudit<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60643,12 +60044,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>mailakako<s n="adj"/></l> 
-        <r>progressif<s n="adj"/></r> 
+        <r>progressif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60753,12 +60154,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>maitati<s n="adj"/></l> 
-        <r>affectueux<s n="adj"/></r> 
+        <r>affectueux<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60775,29 +60176,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>maitatzaile<s n="n"/></l> 
-        <r>amant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>maitatzaile<s n="n"/></l> 
-        <r>amant<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-6
     -->
     <e>
       <p>
@@ -60896,12 +60275,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>makila<s n="n"/></l> 
-        <r>canne<s n="n"/><s n="f"/></r> 
+        <r>canne<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60929,12 +60308,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>makur<s n="adj"/></l> 
-        <r>tortu<s n="adj"/></r> 
+        <r>tortu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60984,12 +60363,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>malkartsu<s n="adj"/></l> 
-        <r>abrupt<s n="adj"/></r> 
+        <r>abrupt<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61006,12 +60385,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>maltzur<s n="adj"/></l> 
-        <r>malin<s n="adj"/></r> 
+        <r>malin<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61072,12 +60451,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>mandatu<s n="n"/></l> 
-        <r>requête<s n="n"/><s n="f"/></r> 
+        <r>requête<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61116,29 +60495,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>manifestari<s n="n"/></l> 
-        <r>manifestant<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>manifestari<s n="n"/></l> 
-        <r>manifestant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -61281,12 +60638,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>mapa<s n="n"/></l> 
-        <r>carte<s n="n"/><s n="f"/></r> 
+        <r>carte<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61567,23 +60924,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>masailalbo-hezur<s n="n"/></l> 
-        <r>pommette<s n="n"/><s n="f"/></r> 
+        <r>pommette<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>maskulino<s n="adj"/></l> 
-        <r>masculin<s n="adj"/></r> 
+        <r>masculin<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61655,12 +61012,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>maximo<s n="adj"/></l> 
-        <r>maximal<s n="adj"/></r> 
+        <r>maximal<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61699,12 +61056,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>mediko<s n="adj"/></l> 
-        <r>médical<s n="adj"/></r> 
+        <r>médical<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61743,12 +61100,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>mediterraneo<s n="adj"/></l> 
-        <r>méditerranéen<s n="adj"/></r> 
+        <r>méditerranéen<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61776,12 +61133,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>mehe<s n="adj"/></l> 
-        <r>fin<s n="adj"/></r> 
+        <r>fin<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -61809,12 +61166,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>mekaniko<s n="adj"/></l> 
-        <r>mécanicien<s n="adj"/></r> 
+        <r>mécanicien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -62139,23 +61496,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-6
     -->
     <e>
       <p>
         <l>merkatari<s n="n"/></l> 
-        <r>commerçant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>merkatari<s n="n"/></l> 
-        <r>commerçant<s n="n"/><s n="f"/></r> 
+        <r>commerçant<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -62167,28 +61513,6 @@
       <p>
         <l>merkatari<s n="n"/></l> 
         <r>marchand<s n="n"/><s n="GD"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>merkatari<s n="n"/></l> 
-        <r>marchand<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>merkatari<s n="n"/></l> 
-        <r>marchand<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -62271,12 +61595,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>mesede<s n="n"/></l> 
-        <r>faveur<s n="n"/><s n="f"/></r> 
+        <r>faveur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -62524,12 +61848,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>migratzaile<s n="adj"/></l> 
-        <r>migrateur<s n="adj"/></r> 
+        <r>migrateur<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -62645,29 +61969,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>militante<s n="n"/></l> 
-        <r>militant<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>militante<s n="n"/></l> 
-        <r>militant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -62700,12 +62002,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>militar<s n="n"/></l> 
-        <r>militaire<s n="n"/></r> 
+        <r>militaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -62755,12 +62057,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>min<s n="n"/></l> 
-        <r>douleur<s n="n"/><s n="f"/></r> 
+        <r>douleur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -62821,12 +62123,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>mingarri<s n="n"/></l> 
-        <r>douleur<s n="n"/><s n="f"/></r> 
+        <r>douleur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -62876,12 +62178,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>mingots<s n="adj"/></l> 
-        <r>amer<s n="adj"/></r> 
+        <r>amer<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -62986,12 +62288,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>minutu<s n="n"/></l> 
-        <r>minute<s n="n"/><s n="f"/></r> 
+        <r>minute<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -63173,12 +62475,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>misil<s n="n"/></l> 
-        <r>missile<s n="n"/><s n="f"/></r> 
+        <r>missile<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -63360,23 +62662,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>modu<s n="n"/></l> 
-        <r>façon<s n="n"/><s n="f"/></r> 
+        <r>façon<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>moko<s n="n"/></l> 
-        <r>pioche<s n="n"/><s n="f"/></r> 
+        <r>pioche<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -63492,12 +62794,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>monarka<s n="n"/></l> 
-        <r>monarque<s n="n"/></r> 
+        <r>monarque<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -63657,12 +62959,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>mota<s n="n"/></l> 
-        <r>sorte<s n="n"/><s n="f"/></r> 
+        <r>sorte<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -63679,12 +62981,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>motel<s n="adj"/></l> 
-        <r>lent<s n="adj"/></r> 
+        <r>lent<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -63745,12 +63047,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>motz<s n="adj"/></l> 
-        <r>court<s n="adj"/></r> 
+        <r>court<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -63921,12 +63223,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>muga<s n="n"/></l> 
-        <r>limite<s n="n"/><s n="f"/></r> 
+        <r>limite<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -63954,23 +63256,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>mugako<s n="adj"/></l> 
-        <r>frontalier<s n="adj"/></r> 
+        <r>frontalier<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>mugarri<s n="n"/></l> 
-        <r>borne<s n="n"/><s n="f"/></r> 
+        <r>borne<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -64064,12 +63366,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>muino<s n="n"/></l> 
-        <r>colline<s n="n"/><s n="f"/></r> 
+        <r>colline<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -64174,12 +63476,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>mural<s n="n"/></l> 
-        <r>peinture<b/>murale<s n="n"/><s n="f"/></r> 
+        <r>peinture<b/>murale<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -64383,12 +63685,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>musulman<s n="adj"/></l> 
-        <r>musulman<s n="adj"/></r> 
+        <r>musulman<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -64515,12 +63817,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>mutu<s n="adj"/></l> 
-        <r>muet<s n="adj"/></r> 
+        <r>muet<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -64823,23 +64125,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>nagusitasun<s n="n"/></l> 
-        <r>domination<s n="n"/><s n="f"/></r> 
+        <r>domination<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>nagusitasun<s n="n"/></l> 
-        <r>maîtrise<s n="n"/><s n="f"/></r> 
+        <r>maîtrise<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -65098,12 +64400,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>narratibo<s n="adj"/></l> 
-        <r>narratif<s n="adj"/></r> 
+        <r>narratif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -65164,28 +64466,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>nazi<s n="n"/></l> 
-        <r>nazi<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>nazi<s n="n"/></l> 
-        <r>nazi<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       N-0
     -->
     <e>
@@ -65230,12 +64510,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>nazionalista<s n="n"/></l> 
-        <r>nationaliste<s n="n"/></r> 
+        <r>nationaliste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -65340,12 +64620,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>negatibo<s n="adj"/></l> 
-        <r>négatif<s n="adj"/></r> 
+        <r>négatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -65406,12 +64686,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>negutegi<s n="n"/></l> 
-        <r>serre<s n="n"/><s n="f"/></r> 
+        <r>serre<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -65505,12 +64785,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>neke<s n="n"/></l> 
-        <r>fatigue<s n="n"/><s n="f"/></r> 
+        <r>fatigue<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -65544,28 +64824,6 @@
       <p>
         <l>nerabe<s n="n"/></l> 
         <r>adolescent<s n="n"/><s n="GD"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>nerabe<s n="n"/></l> 
-        <r>adolescent<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>nerabe<s n="n"/></l> 
-        <r>adolescent<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -65934,34 +65192,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>nobelagile<s n="n"/></l> 
-        <r>romancier<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>nobelagile<s n="n"/></l> 
-        <r>romancier<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>noble<s n="n"/></l> 
-        <r>noble<s n="n"/></r> 
+        <r>noble<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -66121,12 +65357,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>nor_bere<s n="adj"/></l> 
-        <r>respectif<s n="adj"/></r> 
+        <r>respectif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -66187,12 +65423,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>norako<s n="n"/></l> 
-        <r>destination<s n="n"/><s n="f"/></r> 
+        <r>destination<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -66495,12 +65731,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>objektibo<s n="adj"/></l> 
-        <r>objectif<s n="adj"/></r> 
+        <r>objectif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -66572,40 +65808,18 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>odola_darion<s n="adj"/></l> 
-        <r>sanglant<s n="adj"/></r> 
+        <r>sanglant<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ofizial<s n="n"/></l> 
-        <r>officiel<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ofizial<s n="n"/></l> 
-        <r>officiel<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -66616,23 +65830,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-6
     -->
     <e>
       <p>
         <l>ofizial<s n="n"/></l> 
-        <r>officier<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ofizial<s n="n"/></l> 
-        <r>officier<s n="n"/><s n="f"/></r> 
+        <r>officier<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -66748,12 +65951,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>oharkabe<s n="adj"/></l> 
-        <r>inaperçu<s n="adj"/></r> 
+        <r>inaperçu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -66913,12 +66116,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ohiz_kanpoko<s n="adj"/></l> 
-        <r>extraordinaire<s n="adj"/></r> 
+        <r>extraordinaire<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -66957,12 +66160,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>oies<s n="adj"/></l> 
-        <r>grossier<s n="adj"/></r> 
+        <r>grossier<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -67144,23 +66347,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>oinordeko<s n="adj"/></l> 
-        <r>héritier<s n="adj"/></r> 
+        <r>héritier<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>oker<s n="adj"/></l> 
-        <r>erroné<s n="adj"/></r> 
+        <r>erroné<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -67221,12 +66424,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>okzitaniar<s n="adj"/></l> 
-        <r>occitan<s n="adj"/></r> 
+        <r>occitan<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -67265,12 +66468,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>oldarkor<s n="adj"/></l> 
-        <r>agressif<s n="adj"/></r> 
+        <r>agressif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -67331,12 +66534,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>olio<s n="n"/></l> 
-        <r>huile<s n="n"/><s n="f"/></r> 
+        <r>huile<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -67364,23 +66567,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>on<s n="adj"/></l> 
-        <r>bon<s n="adj"/></r> 
+        <r>bon<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>on<s n="adj"/></l> 
-        <r>satisfaisant<s n="adj"/></r> 
+        <r>satisfaisant<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -67551,12 +66754,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ondoko<s n="adj"/></l> 
-        <r>attenant<s n="adj"/></r> 
+        <r>attenant<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -67859,12 +67062,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>onura<s n="n"/></l> 
-        <r>bénéfice<s n="n"/><s n="f"/></r> 
+        <r>bénéfice<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -67892,12 +67095,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>oparo<s n="adj"/></l> 
-        <r>productif<s n="adj"/></r> 
+        <r>productif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -68321,29 +67524,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ordezkari<s n="n"/></l> 
-        <r>représentant<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ordezkari<s n="n"/></l> 
-        <r>représentant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -68838,12 +68019,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>osagai<s n="n"/></l> 
-        <r>composant<s n="n"/></r> 
+        <r>composant<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -68915,12 +68096,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>osasuntsu<s n="adj"/></l> 
-        <r>sain<s n="adj"/></r> 
+        <r>sain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -68981,23 +68162,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>oskarbi<s n="adj"/></l> 
-        <r>serein<s n="adj"/></r> 
+        <r>serein<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>oso<s n="adj"/></l> 
-        <r>entier<s n="adj"/></r> 
+        <r>entier<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -69025,23 +68206,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>osoko<s n="adj"/></l> 
-        <r>entier<s n="adj"/></r> 
+        <r>entier<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>osoko<b/>bilkura<s n="n"/></l> 
-        <r>session<b/>plénière<s n="n"/><s n="f"/></r> 
+        <r>session<b/>plénière<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -69355,12 +68536,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>otoizte<s n="n"/></l> 
-        <r>prière<s n="n"/><s n="f"/></r> 
+        <r>prière<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -69542,12 +68723,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>palestinar<s n="adj"/></l> 
-        <r>palestinien<s n="adj"/></r> 
+        <r>palestinien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -69696,12 +68877,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>paradoxiko<s n="adj"/></l> 
-        <r>paradoxal<s n="adj"/></r> 
+        <r>paradoxal<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -69795,12 +68976,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>pare<s n="n"/></l> 
-        <r>paire<s n="n"/><s n="f"/></r> 
+        <r>paire<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -70147,23 +69328,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>pasealeku<s n="n"/></l> 
-        <r>balade<s n="n"/><s n="f"/></r> 
+        <r>balade<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>pasealeku<s n="n"/></l> 
-        <r>promenade<s n="n"/><s n="f"/></r> 
+        <r>promenade<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -70180,34 +69361,34 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>paseo<s n="n"/></l> 
-        <r>balade<s n="n"/><s n="f"/></r> 
+        <r>balade<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>paseo<s n="n"/></l> 
-        <r>promenade<s n="n"/><s n="f"/></r> 
+        <r>promenade<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>pasibo<s n="adj"/></l> 
-        <r>passif<s n="adj"/></r> 
+        <r>passif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -70279,12 +69460,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>patio<s n="n"/></l> 
-        <r>cour<s n="n"/><s n="f"/></r> 
+        <r>cour<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -70301,12 +69482,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>patrika<s n="n"/></l> 
-        <r>poche<s n="n"/><s n="f"/></r> 
+        <r>poche<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -70362,28 +69543,6 @@
       <p>
         <l>paziente<s n="n"/></l> 
         <r>patient<s n="n"/><s n="GD"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>paziente<s n="n"/></l> 
-        <r>patient<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>paziente<s n="n"/></l> 
-        <r>patient<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -70521,12 +69680,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>pentsamendu<s n="n"/></l> 
-        <r>pensée<s n="n"/><s n="f"/></r> 
+        <r>pensée<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -70565,23 +69724,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>pentsiodun<s n="n"/></l> 
-        <r>pensionnaire<s n="n"/></r> 
+        <r>pensionnaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>perfektu<s n="adj"/></l> 
-        <r>parfait<s n="adj"/></r> 
+        <r>parfait<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -70796,12 +69955,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>pilotu<s n="n"/></l> 
-        <r>pilote<s n="n"/></r> 
+        <r>pilote<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -70895,12 +70054,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>pinudi<s n="n"/></l> 
-        <r>pinède<s n="n"/><s n="f"/></r> 
+        <r>pinède<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -70917,12 +70076,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>piriniar<s n="adj"/></l> 
-        <r>pyrénéen<s n="adj"/></r> 
+        <r>pyrénéen<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -70983,12 +70142,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>pisu<s n="adj"/></l> 
-        <r>lourd<s n="adj"/></r> 
+        <r>lourd<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -71093,12 +70252,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>planeta<s n="n"/></l> 
-        <r>planète<s n="n"/><s n="f"/></r> 
+        <r>planète<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -71203,12 +70362,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>plater<s n="n"/></l> 
-        <r>assiette<s n="n"/><s n="f"/></r> 
+        <r>assiette<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -71335,29 +70494,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>poeta<s n="n"/></l> 
-        <r>poète<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>poeta<s n="n"/></l> 
-        <r>poète<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -71390,7 +70527,7 @@
 
     <!-- 
 	forced 'null' restriction
-      ND2-0
+      ND3-0
     -->
     <e>
       <p>
@@ -71423,23 +70560,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>polit<s n="adj"/></l> 
-        <r>joli<s n="adj"/></r> 
+        <r>joli<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e c="new-category">
       <p>
         <l>polit<s n="adj"/></l> 
-        <r>marrant<s n="adj"/></r> 
+        <r>marrant<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -71511,6 +70648,28 @@
 
     <!-- 
 	forced 'null' restriction
+      ND3-7
+    -->
+    <e>
+      <p>
+        <l>polizia<s n="n"/></l> 
+        <r>policier<s n="n"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      ND-20
+    -->
+    <e>
+      <p>
+        <l>polizia<s n="n"/></l> 
+        <r>police<s n="n"/><s n="f"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -71528,17 +70687,6 @@
       <p>
         <l>polizia<s n="n"/></l> 
         <r>policier<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-20
-    -->
-    <e>
-      <p>
-        <l>polizia<s n="n"/></l> 
-        <r>police<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -71819,12 +70967,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>positibo<s n="adj"/></l> 
-        <r>positif<s n="adj"/></r> 
+        <r>positif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -71852,12 +71000,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>postontzi<s n="n"/></l> 
-        <r>boîte<g><b/>aux<b/>lettres</g><s n="n"/><s n="f"/></r> 
+        <r>boîte<g><b/>aux<b/>lettres</g><s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -72380,12 +71528,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>pribatu<s n="adj"/></l> 
-        <r>privé<s n="adj"/></r> 
+        <r>privé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -72633,29 +71781,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>profesional<s n="n"/></l> 
-        <r>professionnel<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>profesional<s n="n"/></l> 
-        <r>professionnel<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -72677,29 +71803,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>profeta<s n="n"/></l> 
-        <r>prophète<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>profeta<s n="n"/></l> 
-        <r>prophète<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -72897,12 +72001,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>protagonista<s n="n"/></l> 
-        <r>protagoniste<s n="n"/></r> 
+        <r>protagoniste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -72952,12 +72056,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>prozedura<s n="n"/></l> 
-        <r>procédure<s n="n"/><s n="f"/></r> 
+        <r>procédure<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73018,12 +72122,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>psikiatra<s n="n"/></l> 
-        <r>psychiatre<s n="n"/></r> 
+        <r>psychiatre<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73117,12 +72221,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>publiko<s n="adj"/></l> 
-        <r>public<s n="adj"/></r> 
+        <r>public<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73172,12 +72276,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>puntu<s n="n"/></l> 
-        <r>maille<s n="n"/><s n="f"/></r> 
+        <r>maille<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73238,12 +72342,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>putre<s n="n"/></l> 
-        <r>vautour<s n="n"/><s n="f"/></r> 
+        <r>vautour<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73260,12 +72364,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>putzu<s n="n"/></l> 
-        <r>flaque<s n="n"/><s n="f"/></r> 
+        <r>flaque<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73425,12 +72529,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>saiatu<s n="adj"/></l> 
-        <r>actif<s n="adj"/></r> 
+        <r>actif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73612,34 +72716,34 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>sakela<s n="n"/></l> 
-        <r>poche<s n="n"/><s n="f"/></r> 
+        <r>poche<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>sakon<s n="adj"/></l> 
-        <r>exhaustif<s n="adj"/></r> 
+        <r>exhaustif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>sakon<s n="adj"/></l> 
-        <r>profond<s n="adj"/></r> 
+        <r>profond<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73689,12 +72793,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>sakratu<s n="adj"/></l> 
-        <r>sacré<s n="adj"/></r> 
+        <r>sacré<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73920,23 +73024,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-7
     -->
     <e>
       <p>
         <l>saltzaile<s n="n"/></l> 
-        <r>commercial<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>saltzaile<s n="n"/></l> 
-        <r>commercial<s n="n"/><s n="m"/></r> 
+        <r>commercial<s n="n"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -73986,12 +73079,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>santu<s n="adj"/></l> 
-        <r>saint<s n="adj"/></r> 
+        <r>saint<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -74085,12 +73178,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>sarkor<s n="adj"/></l> 
-        <r>aigu<s n="adj"/></r> 
+        <r>aigu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -74118,12 +73211,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>sarraski<s n="n"/></l> 
-        <r>extermination<s n="n"/><s n="f"/></r> 
+        <r>extermination<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -74393,12 +73486,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>segundo<s n="n"/></l> 
-        <r>seconde<s n="n"/><s n="f"/></r> 
+        <r>seconde<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -74426,12 +73519,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>seguru<s n="adj"/></l> 
-        <r>sûr<s n="adj"/></r> 
+        <r>sûr<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -74525,12 +73618,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>sekretu<s n="adj"/></l> 
-        <r>secret<s n="adj"/></r> 
+        <r>secret<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -75152,12 +74245,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>sinatzaile<s n="n"/></l> 
-        <r>signataire<s n="n"/></r> 
+        <r>signataire<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -75482,12 +74575,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>sobera<s n="adj"/></l> 
-        <r>excessif<s n="adj"/></r> 
+        <r>excessif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -75570,12 +74663,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>soilgune<s n="n"/></l> 
-        <r>clairière<s n="n"/><s n="f"/></r> 
+        <r>clairière<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -75592,12 +74685,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>soineko<s n="n"/></l> 
-        <r>robe<s n="n"/><s n="f"/></r> 
+        <r>robe<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -75658,12 +74751,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>soldadu<s n="n"/></l> 
-        <r>soldat<s n="n"/></r> 
+        <r>soldat<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -75724,23 +74817,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>sorbalda<s n="n"/></l> 
-        <r>épaule<s n="n"/><s n="f"/></r> 
+        <r>épaule<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>sorburu<s n="n"/></l> 
-        <r>origine<s n="n"/><s n="f"/></r> 
+        <r>origine<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -75768,12 +74861,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>soropil<s n="n"/></l> 
-        <r>pelouse<s n="n"/><s n="f"/></r> 
+        <r>pelouse<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -75790,12 +74883,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>sorrera<s n="n"/></l> 
-        <r>naissance<s n="n"/><s n="f"/></r> 
+        <r>naissance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -75889,12 +74982,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>sortzeko<s n="adj"/></l> 
-        <r>créatif<s n="adj"/></r> 
+        <r>créatif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -75966,12 +75059,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>sozialista<s n="n"/></l> 
-        <r>socialiste<s n="n"/></r> 
+        <r>socialiste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -76076,12 +75169,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>subjektibo<s n="adj"/></l> 
-        <r>subjectif<s n="adj"/></r> 
+        <r>subjectif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -76120,12 +75213,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>sufrimendu<s n="n"/></l> 
-        <r>souffrance<s n="n"/><s n="f"/></r> 
+        <r>souffrance<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -76192,28 +75285,6 @@
       <p>
         <l>suizida<s n="n"/></l> 
         <r>suicidé<s n="n"/><s n="GD"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>suizida<s n="n"/></l> 
-        <r>suicidé<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>suizida<s n="n"/></l> 
-        <r>suicidé<s n="n"/><s n="f"/></r> 
       </p>
     </e>
 
@@ -76362,12 +75433,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>susmagarri<s n="adj"/></l> 
-        <r>suspect<s n="adj"/></r> 
+        <r>suspect<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -76472,12 +75543,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>susto<s n="n"/></l> 
-        <r>frayeur<s n="n"/><s n="f"/></r> 
+        <r>frayeur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -76604,12 +75675,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>talde<s n="n"/></l> 
-        <r>équipe<s n="n"/><s n="f"/></r> 
+        <r>équipe<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -76692,12 +75763,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>tamaina<s n="n"/></l> 
-        <r>taille<s n="n"/><s n="f"/></r> 
+        <r>taille<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -76736,12 +75807,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>tanto<s n="n"/></l> 
-        <r>maille<s n="n"/><s n="f"/></r> 
+        <r>maille<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -77011,12 +76082,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>telebistako<s n="adj"/></l> 
-        <r>télévisuel<s n="adj"/></r> 
+        <r>télévisuel<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -77055,29 +76126,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>teniente<s n="n"/></l> 
-        <r>lieutenant<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>teniente<s n="n"/></l> 
-        <r>lieutenant<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -77242,12 +76291,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>terrore<s n="n"/></l> 
-        <r>terreur<s n="n"/><s n="f"/></r> 
+        <r>terreur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -77264,12 +76313,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>terrorista<s n="n"/></l> 
-        <r>terroriste<s n="n"/></r> 
+        <r>terroriste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -77341,12 +76390,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>testigantza<s n="n"/></l> 
-        <r>attestation<s n="n"/><s n="f"/></r> 
+        <r>attestation<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -77429,12 +76478,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>tipo<s n="n"/></l> 
-        <r>sorte<s n="n"/><s n="f"/></r> 
+        <r>sorte<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -77506,23 +76555,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>tiroketa<s n="n"/></l> 
-        <r>fusillade<s n="n"/><s n="f"/></r> 
+        <r>fusillade<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>titular<s n="n"/></l> 
-        <r>titulaire<s n="n"/></r> 
+        <r>titulaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -77572,12 +76621,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>toki<s n="n"/></l> 
-        <r>place<s n="n"/><s n="f"/></r> 
+        <r>place<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -77605,12 +76654,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>tolesgabe<s n="adj"/></l> 
-        <r>naïf<s n="adj"/></r> 
+        <r>naïf<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -77902,12 +76951,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>trago<s n="n"/></l> 
-        <r>gorgée<s n="n"/><s n="f"/></r> 
+        <r>gorgée<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -78221,12 +77270,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>trebe<s n="n"/></l> 
-        <r>spécialiste<s n="n"/></r> 
+        <r>spécialiste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -78331,23 +77380,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>trinko<s n="adj"/></l> 
-        <r>compact<s n="adj"/></r> 
+        <r>compact<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>trinko<s n="adj"/></l> 
-        <r>intensif<s n="adj"/></r> 
+        <r>intensif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -78463,12 +77512,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>tupusteko<s n="adj"/></l> 
-        <r>soudain<s n="adj"/></r> 
+        <r>soudain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -78485,12 +77534,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>turista<s n="n"/></l> 
-        <r>touriste<s n="n"/></r> 
+        <r>touriste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -78518,12 +77567,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>turko<s n="adj"/></l> 
-        <r>turc<s n="adj"/></r> 
+        <r>turc<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -78738,12 +77787,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>txeratsu<s n="adj"/></l> 
-        <r>affectif<s n="adj"/></r> 
+        <r>affectif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -78771,12 +77820,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>txiki<s n="adj"/></l> 
-        <r>petit<s n="adj"/></r> 
+        <r>petit<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -78925,23 +77974,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>txirrin<s n="n"/></l> 
-        <r>sonnette<s n="n"/><s n="f"/></r> 
+        <r>sonnette<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-4
     -->
     <e>
       <p>
         <l>txirrindulari<s n="n"/></l> 
-        <r>cycliste<s n="n"/></r> 
+        <r>cycliste<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -78958,12 +78007,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>txiste<s n="n"/></l> 
-        <r>blague<s n="n"/><s n="f"/></r> 
+        <r>blague<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -78980,29 +78029,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>txofer<s n="n"/></l> 
-        <r>chauffeur<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>txofer<s n="n"/></l> 
-        <r>chauffeur<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -79057,12 +78084,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>txuri<s n="adj"/></l> 
-        <r>blanc<s n="adj"/></r> 
+        <r>blanc<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -79123,12 +78150,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>udal<s n="n"/></l> 
-        <r>commune<s n="n"/><s n="f"/></r> 
+        <r>commune<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -79145,23 +78172,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>udalerri<s n="n"/></l> 
-        <r>commune<s n="n"/><s n="f"/></r> 
+        <r>commune<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>udaletxe<s n="n"/></l> 
-        <r>mairie<s n="n"/><s n="f"/></r> 
+        <r>mairie<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -79530,29 +78557,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ume_txiki<s n="n"/></l> 
-        <r>mineur<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ume_txiki<s n="n"/></l> 
-        <r>mineur<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-6
     -->
     <e>
       <p>
@@ -79585,12 +78590,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>umore<s n="n"/></l> 
-        <r>humeur<s n="n"/><s n="f"/></r> 
+        <r>humeur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -79827,12 +78832,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>urduri<s n="adj"/></l> 
-        <r>énervé<s n="adj"/></r> 
+        <r>énervé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -79860,12 +78865,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>urduritasun<s n="n"/></l> 
-        <r>nervosité<s n="n"/><s n="f"/></r> 
+        <r>nervosité<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80014,12 +79019,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>urrun<s n="adj"/></l> 
-        <r>lointain<s n="adj"/></r> 
+        <r>lointain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80058,12 +79063,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>urruti<s n="adj"/></l> 
-        <r>lointain<s n="adj"/></r> 
+        <r>lointain<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80168,12 +79173,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>urte<s n="n"/></l> 
-        <r>année<s n="n"/><s n="f"/></r> 
+        <r>année<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80278,12 +79283,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>usain<s n="n"/></l> 
-        <r>odeur<s n="n"/><s n="f"/></r> 
+        <r>odeur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80344,12 +79349,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ustekabeko<s n="adj"/></l> 
-        <r>inattendu<s n="adj"/></r> 
+        <r>inattendu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80366,23 +79371,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ustezko<s n="adj"/></l> 
-        <r>présumé<s n="adj"/></r> 
+        <r>présumé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>ustiapen<s n="n"/></l> 
-        <r>exploitation<s n="n"/><s n="f"/></r> 
+        <r>exploitation<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80487,12 +79492,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>valentziar<s n="adj"/></l> 
-        <r>valencien<s n="adj"/></r> 
+        <r>valencien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80630,12 +79635,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>xume<s n="adj"/></l> 
-        <r>petit<s n="adj"/></r> 
+        <r>petit<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80685,12 +79690,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zabal<s n="adj"/></l> 
-        <r>étendu<s n="adj"/></r> 
+        <r>étendu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80806,12 +79811,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zahar<s n="adj"/></l> 
-        <r>âgé<s n="adj"/></r> 
+        <r>âgé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -80828,12 +79833,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zahar<s n="adj"/></l> 
-        <r>ancien<s n="adj"/></r> 
+        <r>ancien<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -81147,29 +80152,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>zaldizko<s n="n"/></l> 
-        <r>écuyer<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>zaldizko<s n="n"/></l> 
-        <r>écuyer<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -81378,12 +80361,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>zapata<s n="n"/></l> 
-        <r>chaussure<s n="n"/><s n="f"/></r> 
+        <r>chaussure<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -81400,12 +80383,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zaporetsu<s n="adj"/></l> 
-        <r>succulent<s n="adj"/></r> 
+        <r>succulent<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -81444,12 +80427,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zaratatsu<s n="adj"/></l> 
-        <r>ronflant<s n="adj"/></r> 
+        <r>ronflant<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -81642,12 +80625,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zeharkako<s n="adj"/></l> 
-        <r>indirect<s n="adj"/></r> 
+        <r>indirect<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -81675,23 +80658,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zehatz<s n="adj"/></l> 
-        <r>concret<s n="adj"/></r> 
+        <r>concret<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zehatz<s n="adj"/></l> 
-        <r>détaillé<s n="adj"/></r> 
+        <r>détaillé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -81730,23 +80713,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zehaztugabe<s n="adj"/></l> 
-        <r>indéteminé<s n="adj"/></r> 
+        <r>indéteminé<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zehaztugabe<s n="adj"/></l> 
-        <r>imprécis<s n="adj"/></r> 
+        <r>imprécis<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -82423,29 +81406,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>zibil<s n="n"/></l> 
-        <r>civil<s n="n"/><s n="f"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>zibil<s n="n"/></l> 
-        <r>civil<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-30
+      ND3-7
     -->
     <e>
       <p>
@@ -82566,34 +81527,34 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>zigarreta<s n="n"/></l> 
-        <r>cigarette<s n="n"/><s n="f"/></r> 
+        <r>cigarette<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>zigilu<s n="n"/></l> 
-        <r>sceau<s n="n"/><s n="f"/></r> 
+        <r>sceau<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>zigor<s n="n"/></l> 
-        <r>punition<s n="n"/><s n="f"/></r> 
+        <r>punition<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -83050,12 +82011,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>ziur<s n="adj"/></l> 
-        <r>sûr<s n="adj"/></r> 
+        <r>sûr<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -83468,12 +82429,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zorrotz<s n="adj"/></l> 
-        <r>aigu<s n="adj"/></r> 
+        <r>aigu<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -83512,12 +82473,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>zorroztasun<s n="n"/></l> 
-        <r>rigueur<s n="n"/><s n="f"/></r> 
+        <r>rigueur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -83611,12 +82572,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zuhur<s n="adj"/></l> 
-        <r>discret<s n="adj"/></r> 
+        <r>discret<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -83754,23 +82715,23 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>zuri<s n="n"/></l> 
-        <r>cible<s n="n"/><s n="f"/></r> 
+        <r>cible<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zuri<s n="adj"/></l> 
-        <r>blanc<s n="adj"/></r> 
+        <r>blanc<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -83787,12 +82748,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-1
     -->
     <e>
       <p>
         <l>zurrumurru<s n="n"/></l> 
-        <r>rumeur<s n="n"/><s n="f"/></r> 
+        <r>rumeur<s n="n"/><s n="f"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -83875,12 +82836,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zuzen<s n="adj"/></l> 
-        <r>correct<s n="adj"/></r> 
+        <r>correct<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -83930,12 +82891,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zuzendaritza<s n="adj"/></l> 
-        <r>directif<s n="adj"/></r> 
+        <r>directif<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -83996,12 +82957,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      ND3-0
     -->
     <e>
       <p>
         <l>zuzeneko<s n="adj"/></l> 
-        <r>direct<s n="adj"/></r> 
+        <r>direct<s n="adj"/><s n="GD"/><s n="ND"/></r> 
       </p>
     </e>
 
