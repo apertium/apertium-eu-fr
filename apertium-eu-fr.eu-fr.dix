@@ -3,7 +3,7 @@
 	Dictionary:
 	Bilingual dictionary: eu-fr
 	Sections: 1
-	Entries: 7521
+	Entries: 7580
 	Sdefs: 261
       
       Patterns applied:
@@ -44,6 +44,9 @@
       	ND3-6 (7 times)
       	ND3-7 (27 times)
       	ND3-8 (3 times)
+      	post-pr (25 times)
+      	vbsint-vblex (32 times)
+      	vbsint-vbser (2 times)
 
 -->
 <dictionary>
@@ -3957,44 +3960,6 @@
       </p>
     </e>
 
-    <e>
-      <p>
-        <l>edin<s n="vbsint"/></l>
-        <r>être<s n="vbser"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ezan<s n="vbsint"/></l>
-        <r>avoir<s n="vblex"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>ukan<s n="vbsint"/></l>
-        <r>avoir<s n="vblex"/></r>
-      </p>
-    </e>
-
-     <e r="LR">
-      <p>
-        <l>ukan<s n="vblex"/></l>
-        <r>avoir<s n="vblex"/></r>
-      </p>
-    </e>
-    <e>
-      <p>
-        <l>izan<s n="vbsint"/></l>
-        <r>être<s n="vbser"/></r>
-      </p>
-    </e>
-    <e r="LR">
-      <p>
-        <l>izan<s n="vblex"/></l>
-        <r>être<s n="vbser"/></r>
-      </p>
-    </e>
-
     <!-- 
 	forced 'null' restriction
       N-0
@@ -4728,6 +4693,17 @@
     <e>
       <p>
         <l>aditu<s n="vblex"/></l> 
+        <r>comprendre<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>aditu<s n="vbsint"/></l> 
         <r>comprendre<s n="vblex"/></r> 
       </p>
     </e>
@@ -5664,6 +5640,28 @@
       <p>
         <l>aingeru<s n="n"/></l> 
         <r>ange<s n="n"/><s n="m"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>aino<s n="post"/></l> 
+        <r>jusque<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>aino<s n="post"/></l> 
+        <r>jusqu'à<s n="pr"/></r> 
       </p>
     </e>
 
@@ -7517,6 +7515,39 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>an<s n="post"/></l> 
+        <r>chez<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>an<s n="post"/></l> 
+        <r>dans<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>an<s n="post"/></l> 
+        <r>en<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -7930,6 +7961,28 @@
       <p>
         <l>antxoa<s n="n"/></l> 
         <r>anchois<s n="n"/><s n="m"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>antz<s n="post"/></l> 
+        <r>envers<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>antz<s n="post"/></l> 
+        <r>vers<s n="pr"/></r> 
       </p>
     </e>
 
@@ -11686,6 +11739,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>atxiki<s n="vbsint"/></l> 
+        <r>maintenir<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-6
     -->
     <e>
@@ -14570,7 +14634,7 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e alt="eco">
       <p>
         <l>baliotsu<s n="adj"/></l> 
         <r>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></r> 
@@ -14581,7 +14645,7 @@
 	forced 'null' restriction
       ND2-9
     -->
-    <e>
+    <e alt="std">
       <p>
         <l>baliotsu<s n="adj"/></l> 
         <r>précieux<s n="adj"/><s n="GD"/><s n="sp"/></r> 
@@ -14592,7 +14656,7 @@
 	forced 'null' restriction
       ND-18
     -->
-    <e>
+    <e alt="std">
       <p>
         <l>baliotsu<s n="adj"/></l> 
         <r>précieux<s n="adj"/><s n="GD"/><s n="ND"/></r> 
@@ -14603,7 +14667,7 @@
 	forced 'null' restriction
       default
     -->
-    <e>
+    <e alt="eco">
       <p>
         <l>baliozko<s n="adj"/></l> 
         <r>de<b/>valeur<s n="adj"/><s n="mf"/><s n="sp"/></r> 
@@ -14614,7 +14678,7 @@
 	forced 'null' restriction
       ND2-9
     -->
-    <e>
+    <e alt="std">
       <p>
         <l>baliozko<s n="adj"/></l> 
         <r>précieux<s n="adj"/><s n="GD"/><s n="sp"/></r> 
@@ -14625,7 +14689,7 @@
 	forced 'null' restriction
       ND-18
     -->
-    <e>
+    <e alt="std">
       <p>
         <l>baliozko<s n="adj"/></l> 
         <r>précieux<s n="adj"/><s n="GD"/><s n="ND"/></r> 
@@ -23587,7 +23651,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e alt="std">
       <p>
         <l>dotatu<s n="vblex"/></l> 
         <r>douer<s n="vblex"/></r> 
@@ -23598,7 +23662,7 @@
 	forced 'null' restriction
       ND-0
     -->
-    <e>
+    <e alt="eco">
       <p>
         <l>dotatu<s n="vblex"/></l> 
         <r>doter<s n="vblex"/></r> 
@@ -24101,6 +24165,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vbser
+    -->
+    <e>
+      <p>
+        <l>edin<s n="vbsint"/></l> 
+        <r>être<s n="vbser"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -24360,6 +24435,17 @@
       <p>
         <l>eduki<s n="vblex"/></l> 
         <r>contenir<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>eduki<s n="vbsint"/></l> 
+        <r>avoir<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -24634,6 +24720,17 @@
     <e>
       <p>
         <l>egin<s n="vblex"/></l> 
+        <r>faire<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>egin<s n="vbsint"/></l> 
         <r>faire<s n="vblex"/></r> 
       </p>
     </e>
@@ -25020,6 +25117,17 @@
       <p>
         <l>egokitu<s n="vblex"/></l> 
         <r>adapter<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>egon<s n="vbsint"/></l> 
+        <r>être<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -25531,6 +25639,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>ekarri<s n="vbsint"/></l> 
+        <r>amener<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -25575,11 +25694,33 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ekin<s n="post"/></l> 
+        <r>avec<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e c="MG: sería reflexivo, dedicarse">
       <p>
         <l>ekin<s n="vblex"/></l> 
+        <r>consacrer<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e c="MG: sería reflexivo, dedicarse">
+      <p>
+        <l>ekin<s n="vbsint"/></l> 
         <r>consacrer<s n="vblex"/></r> 
       </p>
     </e>
@@ -26422,6 +26563,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>eman<s n="vbsint"/></l> 
+        <r>donner<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -26582,6 +26734,17 @@
       <p>
         <l>emoziozko<s n="adj"/></l> 
         <r>émotionnel<s n="adj"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>en<s n="post"/></l> 
+        <r>de<s n="pr"/></r> 
       </p>
     </e>
 
@@ -26906,6 +27069,17 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>entzat<s n="post"/></l> 
+        <r>pour<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       N-0
     -->
     <e>
@@ -26922,6 +27096,17 @@
     <e>
       <p>
         <l>entzun<s n="vblex"/></l> 
+        <r>écouter<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>entzun<s n="vbsint"/></l> 
         <r>écouter<s n="vblex"/></r> 
       </p>
     </e>
@@ -27373,6 +27558,17 @@
     <e>
       <p>
         <l>erabili<s n="vblex"/></l> 
+        <r>utiliser<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>erabili<s n="vbsint"/></l> 
         <r>utiliser<s n="vblex"/></r> 
       </p>
     </e>
@@ -28028,6 +28224,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>erakutsi<s n="vbsint"/></l> 
+        <r>montrer<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       N-0
     -->
     <e>
@@ -28111,6 +28318,17 @@
       <p>
         <l>eraman<s n="vblex"/></l> 
         <r>emporter<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>eraman<s n="vbsint"/></l> 
+        <r>porter<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -28985,6 +29203,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>erosi<s n="vbsint"/></l> 
+        <r>acheter<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       N-0
     -->
     <e>
@@ -29166,6 +29395,17 @@
     <e>
       <p>
         <l>erran<s n="vblex"/></l> 
+        <r>dire<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>erran<s n="vbsint"/></l> 
         <r>dire<s n="vblex"/></r> 
       </p>
     </e>
@@ -30684,6 +30924,17 @@
     <e>
       <p>
         <l>esan<s n="vblex"/></l> 
+        <r>dire<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>esan<s n="vbsint"/></l> 
         <r>dire<s n="vblex"/></r> 
       </p>
     </e>
@@ -32714,6 +32965,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>etorri<s n="vbsint"/></l> 
+        <r>venir<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -32862,6 +33124,17 @@
     <e>
       <p>
         <l>etzan<s n="vblex"/></l> 
+        <r>gésir<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>etzan<s n="vbsint"/></l> 
         <r>gésir<s n="vblex"/></r> 
       </p>
     </e>
@@ -33132,6 +33405,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>eutsi<s n="vbsint"/></l> 
+        <r>résister<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -33352,12 +33636,34 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>ezagutu<s n="vbsint"/></l> 
+        <r>connaître<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND3-1
     -->
     <e>
       <p>
         <l>ezagutza<s n="n"/></l> 
         <r>connaissance<s n="n"/><s n="f"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>ezan<s n="vbsint"/></l> 
+        <r>avoir<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -35651,6 +35957,17 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gabe<s n="post"/></l> 
+        <r>sans<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -36443,6 +36760,28 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gan<s n="post"/></l> 
+        <r>en<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gana<s n="post"/></l> 
+        <r>à<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-2
     -->
     <e>
@@ -36476,12 +36815,45 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ganaino<s n="post"/></l> 
+        <r>jusqu'à<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ganantz<s n="post"/></l> 
+        <r>vers<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND3-4
     -->
     <e>
       <p>
         <l>ganbera<s n="n"/></l> 
         <r>caméra<s n="n"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gandik<s n="post"/></l> 
+        <r>depuis<s n="pr"/></r> 
       </p>
     </e>
 
@@ -37208,6 +37580,17 @@
       <p>
         <l>gatibu<s n="n"/></l> 
         <r>prisonnier<s n="n"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>gatik<s n="post"/></l> 
+        <r>par<s n="pr"/></r> 
       </p>
     </e>
 
@@ -39646,7 +40029,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e alt="std">
       <p>
         <l>gordailu<s n="n"/></l> 
         <r>dépôt<s n="n"/><s n="m"/><s n="ND"/></r> 
@@ -39657,7 +40040,7 @@
 	forced 'null' restriction
       ND-2
     -->
-    <e>
+    <e alt="eco">
       <p>
         <l>gordailu<s n="n"/></l> 
         <r>avoir<s n="n"/><s n="m"/><s n="ND"/></r> 
@@ -45089,6 +45472,17 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>i<s n="post"/></l> 
+        <r>à<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -45238,6 +45632,17 @@
       <p>
         <l>ibili<s n="vblex"/></l> 
         <r>circuler<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>ibili<s n="vbsint"/></l> 
+        <r>marcher<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -45628,6 +46033,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>igorri<s n="vbsint"/></l> 
+        <r>envoyer<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -45677,6 +46093,17 @@
     <e>
       <p>
         <l>ihardetsi<s n="vblex"/></l> 
+        <r>répliquer<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>ihardetsi<s n="vbsint"/></l> 
         <r>répliquer<s n="vblex"/></r> 
       </p>
     </e>
@@ -46117,6 +46544,17 @@
     <e>
       <p>
         <l>ikusi<s n="vblex"/></l> 
+        <r>voir<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>ikusi<s n="vbsint"/></l> 
         <r>voir<s n="vblex"/></r> 
       </p>
     </e>
@@ -48433,6 +48871,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>iraun<s n="vbsint"/></l> 
+        <r>durer<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -48670,6 +49119,17 @@
       <p>
         <l>iritzi<s n="vblex"/></l> 
         <r>ressembler<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>iritzi<s n="vbsint"/></l> 
+        <r>penser<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -49951,6 +50411,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vbser
+    -->
+    <e>
+      <p>
+        <l>izan<s n="vbsint"/></l> 
+        <r>être<s n="vbser"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-4
     -->
     <e>
@@ -50699,6 +51170,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>jakin<s n="vbsint"/></l> 
+        <r>savoir<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -51007,6 +51489,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>jardun<s n="vbsint"/></l> 
+        <r>être<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-4
     -->
     <e>
@@ -51089,6 +51582,17 @@
     <e>
       <p>
         <l>jarraiki<s n="vblex"/></l> 
+        <r>suivre<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>jarraiki<s n="vbsint"/></l> 
         <r>suivre<s n="vblex"/></r> 
       </p>
     </e>
@@ -51805,6 +52309,17 @@
       <p>
         <l>joan<s n="vblex"/></l> 
         <r>accourir<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>joan<s n="vbsint"/></l> 
+        <r>aller<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -54038,6 +54553,17 @@
       <p>
         <l>klub<s n="n"/></l> 
         <r>club<s n="n"/><s n="m"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ko<s n="post"/></l> 
+        <r>de<s n="pr"/></r> 
       </p>
     </e>
 
@@ -67047,7 +67573,7 @@
 	forced 'null' restriction
       ND-6
     -->
-    <e>
+    <e alt="eco">
       <p>
         <l>ontasun<s n="n"/></l> 
         <r>avantage<s n="n"/><s n="m"/><s n="ND"/></r> 
@@ -69614,6 +70140,17 @@
       <p>
         <l>pe<s n="adv"/></l> 
         <r>dessous<s n="adv"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>pean<s n="post"/></l> 
+        <r>sous<s n="pr"/></r> 
       </p>
     </e>
 
@@ -72441,6 +72978,17 @@
       <p>
         <l>puztu<s n="vblex"/></l> 
         <r>gonfler<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>ra<s n="post"/></l> 
+        <r>à<s n="pr"/></r> 
       </p>
     </e>
 
@@ -75988,6 +76536,17 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>tear<s n="post"/></l> 
+        <r>sur<b/>le<b/>point<b/>de<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-2
     -->
     <e>
@@ -76467,6 +77026,17 @@
       <p>
         <l>testuinguru<s n="n"/></l> 
         <r>contexte<s n="n"/><s n="m"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>tik<s n="post"/></l> 
+        <r>depuis<s n="pr"/></r> 
       </p>
     </e>
 
@@ -78133,6 +78703,17 @@
 
     <!-- 
 	forced 'null' restriction
+      post-pr
+    -->
+    <e>
+      <p>
+        <l>tzat<s n="post"/></l> 
+        <r>comme<s n="pr"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       N-0
     -->
     <e>
@@ -78447,6 +79028,17 @@
       <p>
         <l>ukaezin<s n="adj"/></l> 
         <r>indéniable<s n="adj"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>ukan<s n="vbsint"/></l> 
+        <r>avoir<s n="vblex"/></r> 
       </p>
     </e>
 
@@ -79475,6 +80067,17 @@
 
     <!-- 
 	forced 'null' restriction
+      vbsint-vblex
+    -->
+    <e>
+      <p>
+        <l>utzi<s n="vbsint"/></l> 
+        <r>laisser<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -79701,6 +80304,17 @@
       <p>
         <l>xuxurlatu<s n="vblex"/></l> 
         <r>murmurer<s n="vblex"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      post-pr
+    -->
+    <e c="por/con?">
+      <p>
+        <l>z<s n="post"/></l> 
+        <r>par<s n="pr"/></r> 
       </p>
     </e>
 
