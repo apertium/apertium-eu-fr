@@ -2187,6 +2187,54 @@
 </action>
 </action-set>
 </cross-action>
+<cross-action id="prnitg-42">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="prn"/><s n="itg"/></l> 
+        <r>$lemmaB<s n="prn"/><s n="itg"/><s n="mf"/></r> 
+      </p>
+    </e>
 
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="prn"/></l> 
+        <r>$lemmaC<s n="prn"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+</action-set>
+</cross-action>
+<!-- 7 entries like this -->
+<cross-action id="prnitg-out">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="prn"/><s n="itg"/></l> 
+        <r>$lemmaB<s n="prn"/><s n="itg"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="prn"/></l> 
+        <r>$lemmaC<s n="prn"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="prn"/><s n="itg"/></l> 
+        <r>$lemmaC<s n="prn"/><s n="itg"/><s n="mf"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
 
 </cross-model>

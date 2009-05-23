@@ -3,11 +3,11 @@
 	Dictionary:
 	Bilingual dictionary: eu-fr
 	Sections: 1
-	Entries: 7645
+	Entries: 7642
 	Sdefs: 261
       
       Patterns applied:
-      	default (495 times)
+      	default (491 times)
       	ND-37 (2 times)
       	ND-38 (17 times)
       	ND-36 (3 times)
@@ -61,6 +61,7 @@
       	zzz-0 (160 times)
       	zzz-1 (67 times)
       	zzz-2 (10 times)
+      	prnitg-out (1 times)
 
 -->
 <dictionary>
@@ -82490,45 +82491,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      prnitg-out
     -->
     <e>
       <p>
         <l>zer<s n="prn"/><s n="itg"/></l> 
-        <r>qu'est-ce<b/>que<b/>c'est<b/>que<s n="prn"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>zer<s n="prn"/><s n="itg"/></l> 
-        <r>que<s n="prn"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>zer<s n="prn"/><s n="itg"/></l> 
-        <r>qu'est-ce<b/>que<s n="prn"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>zer<s n="prn"/><s n="itg"/></l> 
-        <r>quoi<s n="prn"/></r> 
+        <r>qu'est-ce<b/>que<s n="prn"/><s n="itg"/><s n="mf"/></r> 
       </p>
     </e>
 
