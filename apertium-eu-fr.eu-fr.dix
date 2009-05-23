@@ -7,7 +7,7 @@
 	Sdefs: 261
       
       Patterns applied:
-      	default (488 times)
+      	default (487 times)
       	ND-37 (2 times)
       	ND-38 (17 times)
       	ND-36 (3 times)
@@ -63,8 +63,8 @@
       	zzz-2 (10 times)
       	prnitg-42 (3 times)
       	prnitg-out (1 times)
-      	que-0 (1 times)
       	que-1 (2 times)
+      	que-2 (2 times)
 
 -->
 <dictionary>
@@ -57447,7 +57447,7 @@
 
     <!-- 
 	forced 'null' restriction
-      que-1
+      que-2
     -->
     <e>
       <p>
@@ -64938,7 +64938,7 @@
 
     <!-- 
 	forced 'null' restriction
-      que-0
+      que-1
     -->
     <e>
       <p>
@@ -64949,18 +64949,18 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      que-1
     -->
     <e>
       <p>
         <l>n<s n="rel"/></l> 
-        <r>que<s n="rel"/></r> 
+        <r>que<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r> 
       </p>
     </e>
 
     <!-- 
 	forced 'null' restriction
-      que-1
+      que-2
     -->
     <e c="és la n que va després dels subjuntius - dezagun- que veamos">
       <p>
