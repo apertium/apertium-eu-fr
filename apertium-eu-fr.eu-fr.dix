@@ -3,17 +3,17 @@
 	Dictionary:
 	Bilingual dictionary: eu-fr
 	Sections: 1
-	Entries: 7645
+	Entries: 7617
 	Sdefs: 261
       
       Patterns applied:
-      	default (487 times)
+      	default (442 times)
       	ND-37 (2 times)
       	ND-38 (17 times)
       	ND-36 (3 times)
       	ND-33 (26 times)
       	ND-32 (28 times)
-      	ND-31 (44 times)
+      	ND-31 (42 times)
       	ND-30 (16 times)
       	ND-0 (1579 times)
       	ND-2 (1225 times)
@@ -65,6 +65,9 @@
       	prnitg-out (1 times)
       	que-1 (2 times)
       	que-2 (2 times)
+      	mf-1 (3 times)
+      	mf-3 (14 times)
+      	mf-4 (2 times)
 
 -->
 <dictionary>
@@ -8754,17 +8757,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>arbaso<s n="n"/></l> 
-        <r>ancêtre<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-6
     -->
     <e>
@@ -9123,17 +9115,6 @@
       <p>
         <l>argazkilari<s n="n"/></l> 
         <r>photographe<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>argazkilari<s n="n"/></l> 
-        <r>photographe<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -9552,17 +9533,6 @@
       <p>
         <l>arkitekto<s n="n"/></l> 
         <r>architecte<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>arkitekto<s n="n"/></l> 
-        <r>architecte<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -12087,17 +12057,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>atzerri<b/>ministro<s n="n"/></l> 
-        <r>ministre<g><b/>des<b/>affaires<b/>étrangères</g><s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -12357,6 +12316,17 @@
       <p>
         <l>aurkako<s n="adj"/></l> 
         <r>hostile<s n="adj"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>aurkari<s n="n"/></l> 
+        <r>adversaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -15101,17 +15071,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>barbaro<s n="n"/></l> 
-        <r>barbare<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-10
     -->
     <e>
@@ -16152,17 +16111,6 @@
       <p>
         <l>bazkide<s n="n"/></l> 
         <r>partenaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>bazkide<s n="n"/></l> 
-        <r>partenaire<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -19578,17 +19526,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>biologo<s n="n"/></l> 
-        <r>biologiste<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-2
     -->
     <e>
@@ -20299,17 +20236,6 @@
       <p>
         <l>boluntario<s n="n"/></l> 
         <r>volontaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>boluntario<s n="n"/></l> 
-        <r>volontaire<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -23205,17 +23131,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>diplomazialari<s n="n"/></l> 
-        <r>diplomate<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-2
     -->
     <e>
@@ -24783,17 +24698,6 @@
       <p>
         <l>egile<s n="n"/></l> 
         <r>auteur<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>egile<s n="n"/></l> 
-        <r>auteur<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -30992,17 +30896,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e c="new-category">
-      <p>
-        <l>errusiar<s n="n"/></l> 
-        <r>russe<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-9
     -->
     <e c="new-category">
@@ -31581,17 +31474,6 @@
       <p>
         <l>esklabo<s n="n"/></l> 
         <r>esclave<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>esklabo<s n="n"/></l> 
-        <r>esclave<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -33291,12 +33173,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      mf-4
     -->
     <e>
       <p>
         <l>etxeko_nagusi<s n="n"/></l> 
-        <r>propriétaire<s n="n"/><s n="mf"/></r> 
+        <r>propriétaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -33506,17 +33388,6 @@
       <p>
         <l>euskaldun<s n="n"/></l> 
         <r>basque<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="new-category">
-      <p>
-        <l>euskaldun<s n="n"/></l> 
-        <r>basque<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -34342,17 +34213,6 @@
       <p>
         <l>ezkongai<s n="n"/></l> 
         <r>célibataire<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ezkongai<s n="n"/></l> 
-        <r>célibataire<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -35678,12 +35538,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      mf-4
     -->
     <e>
       <p>
         <l>fotoi<s n="n"/></l> 
-        <r>photon<s n="n"/><s n="mf"/></r> 
+        <r>photon<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -36069,17 +35929,6 @@
       <p>
         <l>funtzionario<s n="n"/></l> 
         <r>fonctionnaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>funtzionario<s n="n"/></l> 
-        <r>fonctionnaire<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -36553,17 +36402,6 @@
       <p>
         <l>gaixo<s n="n"/></l> 
         <r>malade<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>gaixo<s n="n"/></l> 
-        <r>malade<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -42674,6 +42512,17 @@
 
     <!-- 
 	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>haur<s n="n"/></l> 
+        <r>enfant<s n="n"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND2-4
     -->
     <e>
@@ -43450,17 +43299,6 @@
       <p>
         <l>heldu<s n="n"/></l> 
         <r>adulte<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>heldu<s n="n"/></l> 
-        <r>adulte<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -46073,17 +45911,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>idazkari<s n="n"/></l> 
-        <r>secrétaire<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-6
     -->
     <e>
@@ -46618,6 +46445,17 @@
       <p>
         <l>ikasle<s n="n"/></l> 
         <r>élève<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>ikasle<s n="n"/></l> 
+        <r>élève<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -47954,17 +47792,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ingeniari<s n="n"/></l> 
-        <r>ingénieur<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -49142,6 +48969,17 @@
 
     <!-- 
 	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>irakasle<s n="n"/></l> 
+        <r>professeur<s n="n"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -49236,17 +49074,6 @@
       <p>
         <l>iraultzaile<s n="n"/></l> 
         <r>révolutionnaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>iraultzaile<s n="n"/></l> 
-        <r>révolutionnaire<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -51265,12 +51092,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      mf-1
     -->
     <e>
       <p>
         <l>jabe<s n="n"/></l> 
-        <r>propriétaire<s n="n"/><s n="mf"/></r> 
+        <r>propriétaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -51282,17 +51109,6 @@
       <p>
         <l>jabe<s n="n"/></l> 
         <r>propriétaire<s n="n"/><s n="m"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-31
-    -->
-    <e>
-      <p>
-        <l>jabe<s n="n"/></l> 
-        <r>propriétaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -53832,17 +53648,6 @@
     -->
     <e>
       <p>
-        <l>kapitain<s n="n"/></l> 
-        <r>capitaine<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
         <l>kapital<s n="n"/></l> 
         <r>capitale<s n="n"/><s n="f"/></r> 
       </p>
@@ -54307,17 +54112,6 @@
       <p>
         <l>katoliko<s n="n"/></l> 
         <r>catholique<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="new-category">
-      <p>
-        <l>katoliko<s n="n"/></l> 
-        <r>catholique<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -54791,17 +54585,6 @@
       <p>
         <l>kimikari<s n="n"/></l> 
         <r>chimiste<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>kimikari<s n="n"/></l> 
-        <r>chimiste<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -55456,34 +55239,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>komiko<s n="n"/></l> 
-        <r>comique<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-31
     -->
     <e>
       <p>
         <l>komisario<s n="n"/></l> 
         <r>commissaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>komisario<s n="n"/></l> 
-        <r>commissaire<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -56281,6 +56042,17 @@
 
     <!-- 
 	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>kontrako<s n="n"/></l> 
+        <r>adversaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-9
     -->
     <e>
@@ -56919,6 +56691,17 @@
 
     <!-- 
 	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>kreatzaile<s n="n"/></l> 
+        <r>créateur<s n="n"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       default
     -->
     <e>
@@ -57057,17 +56840,6 @@
       <p>
         <l>kritikari<s n="n"/></l> 
         <r>critique<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e c="new-category">
-      <p>
-        <l>kritikari<s n="n"/></l> 
-        <r>critique<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -57266,17 +57038,6 @@
       <p>
         <l>kudeatzaile<s n="n"/></l> 
         <r>gestionnaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>kudeatzaile<s n="n"/></l> 
-        <r>gestionnaire<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -58883,6 +58644,17 @@
       <p>
         <l>legebiltzarkide<s n="n"/></l> 
         <r>parlementaire<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>legebiltzarkide<s n="n"/></l> 
+        <r>parlementaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -60934,17 +60706,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>madrildar<s n="n"/></l> 
-        <r>madrilène<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-9
     -->
     <e>
@@ -61160,17 +60921,6 @@
       <p>
         <l>mairu<s n="n"/></l> 
         <r>maure<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>mairu<s n="n"/></l> 
-        <r>maure<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -62133,18 +61883,7 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>mediku<s n="n"/></l> 
-        <r>médecin<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      ND-31
+      mf-1
     -->
     <e>
       <p>
@@ -63277,17 +63016,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>ministro<s n="n"/></l> 
-        <r>ministre<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-2
     -->
     <e>
@@ -63360,17 +63088,6 @@
       <p>
         <l>mirabe<s n="n"/></l> 
         <r>valet<s n="n"/><s n="m"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>mirabe<s n="n"/></l> 
-        <r>domestique<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -64124,17 +63841,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>mozkor<s n="n"/></l> 
-        <r>ivrogne<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-0
     -->
     <e>
@@ -64817,12 +64523,12 @@
 
     <!-- 
 	forced 'null' restriction
-      default
+      mf-1
     -->
     <e>
       <p>
         <l>mutil<b/>lagun<s n="n"/></l> 
-        <r>collègue<s n="n"/><s n="mf"/></r> 
+        <r>collègue<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -65131,6 +64837,17 @@
       <p>
         <l>nagusi<s n="n"/></l> 
         <r>chef<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>nagusi<s n="n"/></l> 
+        <r>chef<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -66671,17 +66388,6 @@
       <p>
         <l>notario<s n="n"/></l> 
         <r>notaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>notario<s n="n"/></l> 
-        <r>notaire<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -70196,6 +69902,17 @@
 
     <!-- 
 	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>parlamentari<s n="n"/></l> 
+        <r>parlementaire<s n="n"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-9
     -->
     <e>
@@ -71120,17 +70837,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>pintore<s n="n"/></l> 
-        <r>peintre<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-9
     -->
     <e>
@@ -71720,17 +71426,6 @@
       <p>
         <l>politikari<s n="n"/></l> 
         <r>politique<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>politikari<s n="n"/></l> 
-        <r>politique<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -73359,17 +73054,6 @@
       <p>
         <l>psikologo<s n="n"/></l> 
         <r>psychologue<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>psikologo<s n="n"/></l> 
-        <r>psychologue<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
@@ -75872,6 +75556,17 @@
 
     <!-- 
 	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>sobietar<s n="n"/></l> 
+        <r>soviétique<s n="n"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-10
     -->
     <e>
@@ -76224,6 +75919,17 @@
 
     <!-- 
 	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>sortzaile<s n="n"/></l> 
+        <r>créateur<s n="n"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-6
     -->
     <e>
@@ -76378,6 +76084,17 @@
 
     <!-- 
 	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>soziologo<s n="n"/></l> 
+        <r>sociologue<s n="n"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
       ND-2
     -->
     <e>
@@ -76527,6 +76244,17 @@
       <p>
         <l>suitzar<s n="n"/></l> 
         <r>suisse<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>suitzar<s n="n"/></l> 
+        <r>suisse<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -78160,17 +77888,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>toxikomano<s n="n"/></l> 
-        <r>toxicomane<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-2
     -->
     <e>
@@ -79183,17 +78900,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>tximino<s n="n"/></l> 
-        <r>singe<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-2
     -->
     <e>
@@ -79871,6 +79577,17 @@
       <p>
         <l>ume<s n="n"/></l> 
         <r>enfant<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'null' restriction
+      mf-3
+    -->
+    <e>
+      <p>
+        <l>ume<s n="n"/></l> 
+        <r>enfant<s n="n"/><s n="mf"/><s n="ND"/></r> 
       </p>
     </e>
 
@@ -81548,17 +81265,6 @@
 
     <!-- 
 	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>zale<s n="n"/></l> 
-        <r>supporter<s n="n"/><s n="mf"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
       ND-6
     -->
     <e>
@@ -82874,17 +82580,6 @@
       <p>
         <l>zientzialari<s n="n"/></l> 
         <r>scientifique<s n="n"/><s n="mf"/><s n="ND"/></r> 
-      </p>
-    </e>
-
-    <!-- 
-	forced 'null' restriction
-      default
-    -->
-    <e>
-      <p>
-        <l>zientzialari<s n="n"/></l> 
-        <r>scientifique<s n="n"/><s n="mf"/></r> 
       </p>
     </e>
 
