@@ -2447,5 +2447,63 @@
 </action>
 </action-set>
 </cross-action>
+<cross-action id="mf-5">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaB<s n="n"/><s n="GD"/><s n="ND"/></r> 
+      </p>
+    </e>
+
+    <e r="LR">
+      <p>
+        <l>$lemmaB<s n="n"/><s n="m"/></l> 
+        <r>$lemmaC<s n="n"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/></l> 
+        <r>$lemmaC<s n="n"/><s n="mf"/><s n="ND"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 29 entries like this -->
+<cross-action id="acr-3">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/><s n="acr"/></l> 
+        <r>$lemmaB<s n="n"/><s n="acr"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+
+    <e a="eleka">
+      <p>
+        <l>$lemmaB<s n="n"/><s n="acr"/></l> 
+        <r>$lemmaC<s n="n"/><s n="acr"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="n"/><s n="acr"/></l> 
+        <r>$lemmaC<s n="n"/><s n="acr"/><s n="m"/><s n="sg"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 31 entries like this -->
 
 </cross-model>
