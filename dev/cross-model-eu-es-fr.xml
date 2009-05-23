@@ -2244,5 +2244,65 @@
 </action>
 </action-set>
 </cross-action>
+<cross-action id="que-0">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="rel"/></l> 
+        <r>$lemmaB<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r> 
+      </p>
+    </e>
+
+    <e r="RL">
+      <p>
+        <l>$lemmaB<s n="rel"/></l> 
+        <r>$lemmaC<s n="rel"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="rel"/></l> 
+        <r>$lemmaC<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+</cross-action>
+<!-- 3 entries like this -->
+
+<cross-action id="que-1">
+	<pattern>
+    <e>
+      <p>
+        <l>$lemmaA<s n="cnjsub"/></l> 
+        <r>$lemmaB<s n="cnjsub"/></r> 
+      </p>
+    </e>
+
+    <e>
+      <p>
+        <l>$lemmaB<s n="cnjsub"/></l> 
+        <r>$lemmaC<s n="cnjsub"/></r> 
+      </p>
+    </e>
+
+	</pattern>
+<action-set>
+<action>
+    <e>
+      <p>
+        <l>$lemmaA<s n="cnjsub"/></l> 
+        <r>$lemmaC<s n="cnjsub"/></r> 
+      </p>
+    </e>
+</action>
+</action-set>
+
+</cross-action>
+<!-- 3 entries like this -->
 
 </cross-model>
