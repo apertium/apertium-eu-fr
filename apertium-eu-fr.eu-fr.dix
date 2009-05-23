@@ -3,7 +3,7 @@
 	Dictionary:
 	Bilingual dictionary: eu-fr
 	Sections: 1
-	Entries: 7642
+	Entries: 7645
 	Sdefs: 261
       
       Patterns applied:
@@ -61,6 +61,7 @@
       	zzz-0 (160 times)
       	zzz-1 (67 times)
       	zzz-2 (10 times)
+      	prnitg-42 (3 times)
       	prnitg-out (1 times)
 
 -->
@@ -82490,6 +82491,28 @@
     </e>
 
     <!-- 
+	forced 'RL' restriction
+      prnitg-42
+    -->
+    <e r="RL">
+      <p>
+        <l>zer<s n="prn"/><s n="itg"/></l> 
+        <r>qu'est-ce<b/>que<b/>c'est<b/>que<s n="prn"/><s n="itg"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      prnitg-42
+    -->
+    <e r="RL">
+      <p>
+        <l>zer<s n="prn"/><s n="itg"/></l> 
+        <r>que<s n="prn"/><s n="itg"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
 	forced 'null' restriction
       prnitg-out
     -->
@@ -82497,6 +82520,17 @@
       <p>
         <l>zer<s n="prn"/><s n="itg"/></l> 
         <r>qu'est-ce<b/>que<s n="prn"/><s n="itg"/><s n="mf"/></r> 
+      </p>
+    </e>
+
+    <!-- 
+	forced 'RL' restriction
+      prnitg-42
+    -->
+    <e r="RL">
+      <p>
+        <l>zer<s n="prn"/><s n="itg"/></l> 
+        <r>quoi<s n="prn"/><s n="itg"/><s n="mf"/></r> 
       </p>
     </e>
 

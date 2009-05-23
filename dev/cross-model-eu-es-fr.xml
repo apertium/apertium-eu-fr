@@ -2205,6 +2205,14 @@
 
 	</pattern>
 <action-set>
+<action>
+    <e r="RL">
+      <p>
+        <l>$lemmaA<s n="prn"/><s n="itg"/></l> 
+        <r>$lemmaC<s n="prn"/><s n="itg"/><s n="mf"/></r> 
+      </p>
+    </e>
+</action>
 </action-set>
 </cross-action>
 <!-- 7 entries like this -->
